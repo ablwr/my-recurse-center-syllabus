@@ -69,6 +69,7 @@ Here are some things inspiring me (and related to this topic):
 - [Vittorio Giovara - Color Me Intrigued: A Jaunt Through Color Technology in Video](https://www.youtube.com/watch?v=XMnvY7a4-As)
 - [Vittorio Giovara - Introduction to video reverse engineering](https://vimeo.com/158036897)
 - [Digital Video and HD: Algorithms and Interfaces by Charles Poynton](https://www.goodreads.com/book/show/431195.Digital_Video_and_HD)
+- [http://www.memo.tv/learning-to-see-you-are-what-you-see/](http://www.memo.tv/learning-to-see-you-are-what-you-see/)
 
 # Week 1 (April 2-6) Containers/codecs
 
@@ -154,3 +155,9 @@ Generate an image that shows the state of the solar system at the time of someon
 ## Recreating computer/video art in CSS or Processing.js
 
 Learn how to better use Processing, new CSS features, or new HTML5 features by recreating early computer/video artworks. lillian schwartz, vera molnar, ken knowlton, john whitney, manfred mohr, dara birnbaum, paul sharits, hollis frampton, michael snow, nam june paik, stan vanderbeek are all potential artists to be inspired by and whose work I can attempt to replicate. I think this may involve some math.
+
+## Linter?
+
+Write a linter? A few starting links:
+https://stackoverflow.com/questions/70705/how-to-write-a-linter  
+https://github.com/mcandre/linters  
