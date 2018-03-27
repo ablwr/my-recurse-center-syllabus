@@ -110,7 +110,7 @@ Here are some things inspiring me (and related to this topic):
 
 [!!Con May 12-13](http://bangbangcon.com/)
 
-I thiiiiiink this is when Never Graduate Week happens. SPRING BREAKKKKKKKK
+This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 # Week 7 (May 21-25)
 
