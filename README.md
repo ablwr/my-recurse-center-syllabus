@@ -70,6 +70,9 @@ Here are some things inspiring me (and related to this topic):
 - [Vittorio Giovara - Introduction to video reverse engineering](https://vimeo.com/158036897)
 - [Digital Video and HD: Algorithms and Interfaces by Charles Poynton](https://www.goodreads.com/book/show/431195.Digital_Video_and_HD)
 - [http://www.memo.tv/learning-to-see-you-are-what-you-see/](http://www.memo.tv/learning-to-see-you-are-what-you-see/)
+- [Data compression paper](https://github.com/papers-we-love/papers-we-love/blob/master/data_compression/data-compression.pdf)
+- [Pirate TV](http://www.instructables.com/id/How-To-Save-Analog-TV/)
+- [Kieran O'Leary - Learning Through Fixity Errors](https://kieranjol.wordpress.com/2018/03/29/learning-through-fixity-errors/)
 
 # Week 1 (April 2-6) Containers/codecs
 
