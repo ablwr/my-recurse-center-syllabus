@@ -82,16 +82,23 @@ Popular algorithm names:
 
 # Week 1 (April 2-6) Containers/codecs
 
+## Exploring Matroska attachments and file format polyglot-ing (put mkv file inside mkv file)
+This was very easy! I wrote about it in a blog post called [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
+
+## Understand how codecs are made 
+- [All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
+- [Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
+- read up on codecs
+- investigation of [lenticular](https://github.com/amiaopensource/lenticular), a codec-in-progress for lenticular film
+
+
+
+
 ## Ideas 
 - Video container/codec review, how do significant properties relate to each other when established by each format?
 - containers versus codecs, how do they work together (or not together?)
-- Exploring Matroska attachments and file format polyglot-ing 
-- (put mkv file inside mkv file)
-- Understand how codecs are made 
 
 
-## - (put mkv file inside mkv file)
-This was very easy! I wrote about it in a blog post called [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
 
 # Week 2 (April 9-13)
 
