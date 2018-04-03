@@ -74,16 +74,28 @@ Here are some things inspiring me (and related to this topic):
 - [Pirate TV](http://www.instructables.com/id/How-To-Save-Analog-TV/)
 - [Kieran O'Leary - Learning Through Fixity Errors](https://kieranjol.wordpress.com/2018/03/29/learning-through-fixity-errors/)
 
+Popular algorithm names:
+- Huffman 
+- Adaptive Huffman!
+- Shannon-Fano
+- Schwartz-Kallick
+
 # Week 1 (April 2-6) Containers/codecs
 
+## Ideas 
 - Video container/codec review, how do significant properties relate to each other when established by each format?
 - containers versus codecs, how do they work together (or not together?)
 - Exploring Matroska attachments and file format polyglot-ing 
 - (put mkv file inside mkv file)
 - Understand how codecs are made 
 
+
+## - (put mkv file inside mkv file)
+This was very easy! I wrote about it in a blog post called [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
+
 # Week 2 (April 9-13)
 
+## Ideas 
 - Begin manipulation of raw video data 
 - Muxing, demuxing, compiling code  
 - ffmpeg filters
