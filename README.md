@@ -86,24 +86,56 @@ Popular algorithm names:
 This was very easy! I wrote about it in a blog post called [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
 
 ## Understand how codecs are made 
-- [All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
-- [Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
+- [BLOG POST: All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
+
+- [BLOG POST: Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
+
 - read up on codecs
 - investigation of [lenticular](https://github.com/amiaopensource/lenticular), a codec-in-progress for lenticular film
 
+## ffmpeg! 
 
+FFmpeg has been coming up a lot in conversation, with a lot of people working on different things. Someone told me about [this book](https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832) which is like the best thing ever. I'm ready to start a graduate level program and teach only this book. So many example commands and a visual representation of what they do.
 
+## Looking at open codecs:
 
-## Ideas 
+- [ffv1](https://github.com/FFmpeg/FFV1)
+- [lenticular](https://github.com/amiaopensource/lenticular) by reto kromer
+- [openjpeg](https://github.com/uclouvain/openjpeg)
+
+## lenticular 
+
+- [BLOG POST: Lenticular film, lenticular codec](http://bits.ashleyblewer.com/blog/2018/04/04/lenticular-film-lenticular-codec/)
+
+- Running lenticular partially successfully https://github.com/amiaopensource/lenticular/tree/master/lenticular
+- Ran into [segmentation faults](https://en.wikipedia.org/wiki/Segmentation_fault) and I'd like to explore these more, but moving on for now
+
+## video and cultural heritage and copyleft opinions 
+
+Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/):  
+http://ivory.idyll.org/blog/2017-digital-commons-funding.html paper about CC models   
+https://framagit.org/mkcor/free-software-ethics Marianne's talk on free software ethics!   
+Potential video cultural heritage paper to read (and maybe love?): https://hal-mines-paristech.archives-ouvertes.fr/hal-00975857v2/document  
+
+## Misc 
+- first added a xml feed to my blog, next day I actually showcase that endpoint so people can use it
+- TIL zulip offers free hosting for OSS projects https://zulipchat.com/for/open-source/
+- Looking at http://www.vapoursynth.com/about/
+- adding increasingly dangerous amounts of coffee but still falling asleep immediately at 11pm each night
+- thinking of writing about cohorts 
+- to read: [the secret life of nan](https://anniecherkaev.com/the-secret-life-of-nan)
+- to read: [google docs, not a file format](https://madfileformatscience.garymcgath.com/2018/03/15/google-docs/)
+- [my review was requested](https://github.com/amiaopensource/audiorecorder/pull/69) on audiorecorder
+
+## (Pre-RC Ideas Zone)
 - Video container/codec review, how do significant properties relate to each other when established by each format?
 - containers versus codecs, how do they work together (or not together?)
 
-
-
 # Week 2 (April 9-13)
 
-## Ideas 
+## (Pre-RC Ideas Zone)
 - Begin manipulation of raw video data 
+- "signal processing"
 - Muxing, demuxing, compiling code  
 - ffmpeg filters
 - Visualizing compression: Is there a way to extract only-the-compression from audio or video for visualization purposes? 
