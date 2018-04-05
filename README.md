@@ -83,8 +83,8 @@ Popular algorithm names:
 # Week 1 (April 2-6) Containers/codecs
 
 ## Exploring Matroska attachments and file format polyglot-ing (put mkv file inside mkv file)
-This was very easy thanks to MKVToolNix!
--**BLOG POST** [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
+This was very easy thanks to MKVToolNix!  
+- **BLOG POST** [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
 
 ## Understand how codecs are made 
 - **BLOG POST** [All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
@@ -111,9 +111,11 @@ FFmpeg has been coming up a lot in conversation, with a lot of people working on
 ## video and cultural heritage and copyleft opinions 
 
 Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/):  
-http://ivory.idyll.org/blog/2017-digital-commons-funding.html paper about CC models   
-https://framagit.org/mkcor/free-software-ethics Marianne's talk on free software ethics!   
-Potential video cultural heritage paper to read (and maybe love?): https://hal-mines-paristech.archives-ouvertes.fr/hal-00975857v2/document  
+- http://ivory.idyll.org/blog/2017-digital-commons-funding.html paper about CC models   
+- https://framagit.org/mkcor/free-software-ethics Marianne's talk on free software ethics, so so so so good!
+- "pragmatic idealism"   
+- Potential video cultural heritage paper to read (and maybe love?): https://hal-mines-paristech.archives-ouvertes.fr/hal-00975857v2/document  
+- TIL: "apt-get install anarchism"
 
 ## Misc 
 - first added a xml feed to my blog, next day I actually showcase that endpoint so people can use it
