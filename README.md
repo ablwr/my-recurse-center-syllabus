@@ -83,15 +83,13 @@ Popular algorithm names:
 # Week 1 (April 2-6) Containers/codecs
 
 ## Exploring Matroska attachments and file format polyglot-ing (put mkv file inside mkv file)
-This was very easy! I wrote about it in a blog post called [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
+This was very easy thanks to MKVToolNix!
+-**BLOG POST** [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
 
 ## Understand how codecs are made 
-- [BLOG POST: All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
-
-- [BLOG POST: Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
-
+- **BLOG POST** [All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
+- **BLOG POST** [Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
 - read up on codecs
-- investigation of [lenticular](https://github.com/amiaopensource/lenticular), a codec-in-progress for lenticular film
 
 ## ffmpeg! 
 
@@ -105,9 +103,9 @@ FFmpeg has been coming up a lot in conversation, with a lot of people working on
 
 ## lenticular 
 
-- [BLOG POST: Lenticular film, lenticular codec](http://bits.ashleyblewer.com/blog/2018/04/04/lenticular-film-lenticular-codec/)
-
-- Running lenticular partially successfully https://github.com/amiaopensource/lenticular/tree/master/lenticular
+- **BLOG POST** [Lenticular film, lenticular codec](http://bits.ashleyblewer.com/blog/2018/04/04/lenticular-film-lenticular-codec/)
+- investigation of [lenticular](https://github.com/amiaopensource/lenticular), a codec-in-progress for lenticular film
+- Running lenticular partially successfully 
 - Ran into [segmentation faults](https://en.wikipedia.org/wiki/Segmentation_fault) and I'd like to explore these more, but moving on for now
 
 ## video and cultural heritage and copyleft opinions 
@@ -123,8 +121,9 @@ Potential video cultural heritage paper to read (and maybe love?): https://hal-m
 - Looking at http://www.vapoursynth.com/about/
 - adding increasingly dangerous amounts of coffee but still falling asleep immediately at 11pm each night
 - thinking of writing about cohorts 
-- to read: [the secret life of nan](https://anniecherkaev.com/the-secret-life-of-nan)
-- to read: [google docs, not a file format](https://madfileformatscience.garymcgath.com/2018/03/15/google-docs/)
+- deep read: [the secret life of nan](https://anniecherkaev.com/the-secret-life-of-nan). This blog post casually mentions standardization drama and I clicked on the link to read more SO fast. It's [here](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
+- deep read: [google docs, not a file format](https://madfileformatscience.garymcgath.com/2018/03/15/google-docs/) I like these two quotes in a succinct blog post: "Proprietary formats are always risky. When the format isn’t a file format at all, you can’t even reverse-engineer it in principle." and "Don’t be a cheapskate. Pay for the storage you need."
+- deep read: [How can we preserve Google Documents?](https://digital-archiving.blogspot.co.uk/2017/04/how-can-we-preserve-google-documents.html)
 - [my review was requested](https://github.com/amiaopensource/audiorecorder/pull/69) on audiorecorder
 
 ## (Pre-RC Ideas Zone)
