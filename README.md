@@ -97,13 +97,15 @@ FFmpeg has been coming up a lot in conversation, with a lot of people working on
 
 I need to follow advice that Misty De Meo was given and passed along via Mastodon, which is "hacking around some stuff in FFmpeg's encoder to see what happens"
 
-## Open codecs, open standards:
+## Open or non-open codecs, standards:
 
 - [ffv1](https://github.com/FFmpeg/FFV1)
 - [lenticular](https://github.com/amiaopensource/lenticular) by reto kromer
 - [openjpeg](https://github.com/uclouvain/openjpeg)
 - [RTP Payload Format for H.264 Video](https://tools.ietf.org/html/rfc6184)
 - Not open: [h.264](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
+- Not open: [ProRes white paper](https://www.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf)
+- Not open: [ProRes RAW white paper](https://images.apple.com/final-cut-pro/docs/Apple_ProRes_RAW_White_Paper.pdf)
 
 ## lenticular 
 
@@ -126,17 +128,25 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - deep read: [google docs, not a file format](https://madfileformatscience.garymcgath.com/2018/03/15/google-docs/) I like these two quotes in a succinct blog post: "Proprietary formats are always risky. When the format isn’t a file format at all, you can’t even reverse-engineer it in principle." and "Don’t be a cheapskate. Pay for the storage you need."
 - deep read: [How can we preserve Google Documents?](https://digital-archiving.blogspot.co.uk/2017/04/how-can-we-preserve-google-documents.html)
 
+## gdb / debugging in C 
+- `brew install gdb` 
+- [extra stuff for macOS](https://stackoverflow.com/questions/18423124/please-check-gdb-is-codesigned-see-taskgated8-how-to-get-gdb-installed-w)
+- Is the problem: macOS, gcc, gdb, Homebrew, XCode, the code, or something else?
+- "Reading symbols from lenticular...(no debugging symbols found)...done."
+- "Undefined symbols for architecture x86_64" - sometimes this is macOS being weird, but sometimes this is just me not remembering to call an external lib in C
+- "duplicate symbol \_main in:"" - added -c to the two .o rules to tell gcc to stop at the compilation stage. But also noting that this could be main being defined twice in the program.
+- My brain today: "How do you debug a debugger?"
+- [Valgrind](http://valgrind.org/)
+- `brew install valgrind`
+
 ## Misc 
 - first added a xml feed to my blog, next day I actually showcase that endpoint so people can use it: http://bits.ashleyblewer.com/feed.xml if you want to subscribe
 - TIL zulip offers free hosting for OSS projects https://zulipchat.com/for/open-source/
 - Looking at http://www.vapoursynth.com/about/
-- adding increasingly dangerous amounts of coffee but still falling asleep immediately at 11pm each night
+- adding increasingly dangerous amounts of coffee
 - thinking of writing about cohorts 
 - [my review was requested](https://github.com/amiaopensource/audiorecorder/pull/69) on audiorecorder
-
-## gdb / debugging in C 
-- brew install gdb 
-- [extra stuff for macOS](https://stackoverflow.com/questions/18423124/please-check-gdb-is-codesigned-see-taskgated8-how-to-get-gdb-installed-w)
+- "are you upstate or something? I picture you in some sort of compound like the end of mad men"
 
 ## (Pre-RC Ideas Zone)
 - Video container/codec review, how do significant properties relate to each other when established by each format?
