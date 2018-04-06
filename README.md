@@ -95,11 +95,15 @@ This was very easy thanks to MKVToolNix!
 
 FFmpeg has been coming up a lot in conversation, with a lot of people working on different things. Someone told me about [this book](https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832) which is like the best thing ever. I'm ready to start a graduate level program and teach only this book. So many example commands and a visual representation of what they do.
 
-## Looking at open codecs:
+I need to follow advice that Misty De Meo was given and passed along via Mastodon, which is "hacking around some stuff in FFmpeg's encoder to see what happens"
+
+## Open codecs, open standards:
 
 - [ffv1](https://github.com/FFmpeg/FFV1)
 - [lenticular](https://github.com/amiaopensource/lenticular) by reto kromer
 - [openjpeg](https://github.com/uclouvain/openjpeg)
+- [RTP Payload Format for H.264 Video](https://tools.ietf.org/html/rfc6184)
+- Not open: [h.264](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
 
 ## lenticular 
 
@@ -115,18 +119,24 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - https://framagit.org/mkcor/free-software-ethics Marianne's talk on free software ethics, so so so so good!
 - "pragmatic idealism"   
 - Potential video cultural heritage paper to read (and maybe love?): https://hal-mines-paristech.archives-ouvertes.fr/hal-00975857v2/document  
-- TIL: "apt-get install anarchism"
+- TIL: "apt-get install [anarchism](https://packages.debian.org/source/stretch/anarchism)" installs [this](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq)
+
+## File formats, methods of implementation 
+- deep read: [the secret life of nan](https://anniecherkaev.com/the-secret-life-of-nan). This blog post casually mentions standardization drama and I clicked on the link to read more SO fast. It's [here](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
+- deep read: [google docs, not a file format](https://madfileformatscience.garymcgath.com/2018/03/15/google-docs/) I like these two quotes in a succinct blog post: "Proprietary formats are always risky. When the format isn’t a file format at all, you can’t even reverse-engineer it in principle." and "Don’t be a cheapskate. Pay for the storage you need."
+- deep read: [How can we preserve Google Documents?](https://digital-archiving.blogspot.co.uk/2017/04/how-can-we-preserve-google-documents.html)
 
 ## Misc 
-- first added a xml feed to my blog, next day I actually showcase that endpoint so people can use it
+- first added a xml feed to my blog, next day I actually showcase that endpoint so people can use it: http://bits.ashleyblewer.com/feed.xml if you want to subscribe
 - TIL zulip offers free hosting for OSS projects https://zulipchat.com/for/open-source/
 - Looking at http://www.vapoursynth.com/about/
 - adding increasingly dangerous amounts of coffee but still falling asleep immediately at 11pm each night
 - thinking of writing about cohorts 
-- deep read: [the secret life of nan](https://anniecherkaev.com/the-secret-life-of-nan). This blog post casually mentions standardization drama and I clicked on the link to read more SO fast. It's [here](https://people.eecs.berkeley.edu/~wkahan/ieee754status/754story.html)
-- deep read: [google docs, not a file format](https://madfileformatscience.garymcgath.com/2018/03/15/google-docs/) I like these two quotes in a succinct blog post: "Proprietary formats are always risky. When the format isn’t a file format at all, you can’t even reverse-engineer it in principle." and "Don’t be a cheapskate. Pay for the storage you need."
-- deep read: [How can we preserve Google Documents?](https://digital-archiving.blogspot.co.uk/2017/04/how-can-we-preserve-google-documents.html)
 - [my review was requested](https://github.com/amiaopensource/audiorecorder/pull/69) on audiorecorder
+
+## gdb / debugging in C 
+- brew install gdb 
+- [extra stuff for macOS](https://stackoverflow.com/questions/18423124/please-check-gdb-is-codesigned-see-taskgated8-how-to-get-gdb-installed-w)
 
 ## (Pre-RC Ideas Zone)
 - Video container/codec review, how do significant properties relate to each other when established by each format?
@@ -216,3 +226,7 @@ Learn how to better use Processing, new CSS features, or new HTML5 features by r
 Write a linter? A few starting links:
 https://stackoverflow.com/questions/70705/how-to-write-a-linter  
 https://github.com/mcandre/linters  
+
+## "Long Time Vine Preservation"
+
+Fulfill a long-running joke with a friend of mine.
