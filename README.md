@@ -33,8 +33,11 @@ I am [verrrrrry excited](https://twitter.com/ablwr/status/963424473725767681)!
 
 Because the time you spend at RC and what you choose to work on is self-initiated and self-motivated, I am setting up this repository to create a sort of "syllabus" for myself and what I want to accomplish. **BUT! I do not expect to follow it, just give myself some rough structure to make sure I hit my personal productivity goals while leaving enough room for unanticipated discovery.**
 
-## This will also be a living syllabus, 
-updated with links to blog posts, works I produced, and things I used to tackle these problems or build things for each week.
+**This will also be a living syllabus,**   
+updated with links to blog posts,   
+works I produced,   
+and things I used to tackle these problems  
+or build things for each week.
 
 Some things will get bumped and other things will get shuffled around as part of the normal un-learning process.
 
@@ -80,7 +83,25 @@ Popular algorithm names:
 - Shannon-Fano
 - Schwartz-Kallick
 
-# Week 1 (April 2-6) Containers/codecs
+## (Pre-RC Ideas Zone, this will move)
+- Video container/codec review, how do significant properties relate to each other when established by each format?
+- containers versus codecs, how do they work together (or not together?)
+- Begin manipulation of raw video data 
+- "signal processing"
+- Muxing, demuxing, compiling code  
+- ffmpeg filters
+- Visualizing compression: Is there a way to extract only-the-compression from audio or video for visualization purposes? 
+- Build something in C -> I did build something in Rust with much help, so maybe this has been satisfied
+- Colorspaces
+- Subtitles 
+- Codec manipulation
+- Web Assembly, put C in the browser 
+- Electron, put JS on the desktop
+- Thinking about open source contributions here
+
+
+
+# Week 1 (April 2-6): "Containers/codecs"
 
 ## Exploring Matroska attachments
 - file format polyglot-ing (put mkv file inside mkv file)
@@ -190,26 +211,29 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - fell into the same Jekyll time zone trap as Marianne did this week: A few of my posts was originally written at something like "23:16:00 -0400" so when the time changed for daylight savings, it reverted to thinking it "should" be the next day, deleting the original page and replacing it with a date that was one day later. Tricky! My hack to resolve it was to not get so granular with time-of-posts and kept it at the day-level for these late-ish night additions. 
 - Lydia recommends: https://www.goodreads.com/book/show/44882.Code
 
-## (Ideas Zone)
-- Video container/codec review, how do significant properties relate to each other when established by each format?
-- containers versus codecs, how do they work together (or not together?)
 
-# Week 2 (April 9-13)
+
+# Week 2 (April 9-13): "Minimum Viable Codec"
 
 ## Minimum Viable Codec
 - What does this look like?
 
 ## Rust vs multimedia 
 - [Kostya's Boring Codec World](https://codecs.multimedia.cx/)
-- ❣️ but especially: [NihAV — Concept and Principles](https://codecs.multimedia.cx/2017/06/nihav-concept-and-principles/)
+- but especially: [NihAV — Concept and Principles](https://codecs.multimedia.cx/2017/06/nihav-concept-and-principles/)
 - The above blog post helps me break down my own problems-I-will-be-creating-for-myself with this statement: "I hope the domain for NihAV is clear: it will take ByteIO input, demux data using it (packets or elementary stream chunks—if you want them in packet format then use a parser), optionally fill timestamp information, decode frames, reorder them in display order if requested, similar approach for writing data."
-- [Luca Barbato: Rust-av: Rust and Multimedia](https://blogs.gentoo.org/lu_zero/2018/02/14/rust-av-rust-and-multimedia/)
 - [hello-rust show](https://github.com/hello-rust/show/)
 
-## ## Codecs, etc
+## rust-av
+- [Luca Barbato: Rust-av: Rust and Multimedia](https://blogs.gentoo.org/lu_zero/2018/02/14/rust-av-rust-and-multimedia/)
+- ❣️ [Introducing rust-av, A pure-Rust approach to multimedia](https://fosdem.org/2018/schedule/event/rust_av/) video from FOSDEM '18, also the "slides" used in this presentation are amazing
+- ❣️ [rust-av github](https://github.com/rust-av/rust-av)
+
+## Codecs, etc
 
 - [Chroma from Luma Intra Prediction for AV1](https://docs.google.com/presentation/d/13yUG1lyNmf_TtWARvOJRGa05EVknKya-VEDZ_8L22P8/edit#slide=id.p)
-- [Chroma from Luma lightning talk](https://bambuser.com/v/6909221#t=7258s): intra-frame
+- [Chroma from Luma lightning talk](https://bambuser.com/v/6909221#t=7258s): intra-frame! Video from VDD '17
+- [CfL Design Doc for AV1 (draft)](https://docs.google.com/document/d/1T86spqQqt7o3LWj3FeaOPUJ2vZ_DSgImJ2r0on8wP-g/edit)
 - [Data Compression Conference Proceedings](http://www.cs.brandeis.edu/~dcc/Program.html)
 - [Fast Averaging of High Color (16 bit) Pixels](https://medium.com/@luc.trudeau/fast-averaging-of-high-color-16-bit-pixels-cb4ac7fd1488)
 - [Videos about AV1](https://www.youtube.com/watch?v=68uCu-jWbgU&list=PLDa6QBb3vqVzcVBCWS3WKrcvf4ZqJeiW-)
@@ -223,38 +247,25 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 
 ## Misc 
 - [aparrish/text-resources](https://github.com/aparrish/text-resources)
-- [Irish Film Archives great microservices collection](https://github.com/kieranjol/IFIscripts)
+- ❣️ [Irish Film Archives great microservices collection](https://github.com/kieranjol/IFIscripts)
 - ["Multimedia Data"](http://users.cs.cf.ac.uk/Dave.Marshall/Multimedia/node141.html)
 - "data moshing" but actually doing it instead of just "enjoying" it 
-- TIL: ` | hexdump` does exactly what you think it does
+- TIL: `| hexdump` does exactly what you think it does
 
 
-## (Pre-RC Ideas Zone)
-- Begin manipulation of raw video data 
-- "signal processing"
-- Muxing, demuxing, compiling code  
-- ffmpeg filters
-- Visualizing compression: Is there a way to extract only-the-compression from audio or video for visualization purposes? 
-- Build something in C -> I did build something in Rust with much help, so maybe this has been satisfied
 
 # Week 3 (April 16-20)
 
-- Colorspaces
-- Subtitles 
-- Codec manipulation
 
 # Week 4 (April 23-27)
 
-- Web Assembly, put C in the browser 
-- Electron, put JS on the desktop
 
 # Week 5 (April 30 - May 4)
 
-- Thinking about open source contributions here
 
 # Week 6 (May 7-11)
 
-- Codec-building! rough drafts
+- Codec-building! rough drafts?
 
 # BONUS WEEK (May 14-18)
 
@@ -264,11 +275,11 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 # Week 7 (May 21-25)
 
-- Codec-building, codec-built 
+- Codec-building, codec-built? 
 
 # Week 8 (May 28 - June 1)
 
-- Codec-building, codec-built 
+- Codec-building, codec-built? 
 
 # Week 9 (June 4-8)
 
@@ -288,7 +299,7 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 # THE END!  
 
-There is no end!
+There is no end! Never graduate!
 
 # Mini-projects
 
