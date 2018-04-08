@@ -93,9 +93,9 @@ This was very easy thanks to MKVToolNix!
 
 ## ffmpeg! 
 
-FFmpeg has been coming up a lot in conversation, with a lot of people working on different things. Someone told me about [this book](https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832) which is like the best thing ever. I'm ready to start a graduate level program and teach only this book. So many example commands and a visual representation of what they do.
-
-I need to follow advice that Misty De Meo was given and passed along via Mastodon, which is "hacking around some stuff in FFmpeg's encoder to see what happens"
+- FFmpeg has been coming up a lot in conversation, with a lot of people working on different things. Someone told me about [this book](https://www.amazon.com/FFmpeg-Basics-Multimedia-handling-encoder/dp/1479327832) which is like the best thing ever. I'm ready to start a graduate level program and teach only this book. So many example commands and a visual representation of what they do.
+- I need to follow advice that Misty De Meo was given and passed along via Mastodon, which is "hacking around some stuff in FFmpeg's encoder to see what happens"
+- Misty's Sega FILM demuxer is in ffmpeg now [github](https://github.com/FFmpeg/FFmpeg/commit/187ff5a10864f16b7872eca722e844e8f04ec57b) and I'm #fangirling 
 
 ## Open or non-open codecs, standards:
 
@@ -103,6 +103,7 @@ I need to follow advice that Misty De Meo was given and passed along via Mastodo
 - [lenticular](https://github.com/amiaopensource/lenticular) by reto kromer
 - [openjpeg](https://github.com/uclouvain/openjpeg)
 - [RTP Payload Format for H.264 Video](https://tools.ietf.org/html/rfc6184)
+- [AV1](https://aomedia.org/av1-bitstream-and-decoding-process-specification/)
 - Not open: [h.264](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
 - Not open: [ProRes white paper](https://www.apple.com/final-cut-pro/docs/Apple_ProRes_White_Paper.pdf)
 - Not open: [ProRes RAW white paper](https://images.apple.com/final-cut-pro/docs/Apple_ProRes_RAW_White_Paper.pdf)
@@ -120,7 +121,8 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - http://ivory.idyll.org/blog/2017-digital-commons-funding.html paper about CC models   
 - https://framagit.org/mkcor/free-software-ethics Marianne's talk on free software ethics, so so so so good!
 - "pragmatic idealism"   
-- Potential video cultural heritage paper to read (and maybe love?): https://hal-mines-paristech.archives-ouvertes.fr/hal-00975857v2/document  
+- deep read: Potential video cultural heritage paper to read (and maybe love?): https://hal-mines-paristech.archives-ouvertes.fr/hal-00975857v2/document  
+- "Intangible Cultural Heritage"
 - TIL: "apt-get install [anarchism](https://packages.debian.org/source/stretch/anarchism)" installs [this](https://theanarchistlibrary.org/library/the-anarchist-faq-editorial-collective-an-anarchist-faq)
 
 ## File formats, methods of implementation 
@@ -139,20 +141,44 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - [Valgrind](http://valgrind.org/)
 - `brew install valgrind`
 
+## Rust 
+
+- [rustup](https://www.rustup.rs/)
+- [roundup of learning resources](https://github.com/ctjhoa/rust-learning)
+- [Docs v2](https://doc.rust-lang.org/book/second-edition/)
+- [playing in browser](https://play.rust-lang.org/)
+- I like that the compiler tells you when something is unused
+- `cargo build` to compile your crate
+- `cargo run` to run it
+- "statements (executing code), ... expressions (returning a value)."
+
+## Manipulating data 
+- Pairing with Casey on building a simple image manipulation script in Rust 
+- [Data Compressor From Scratch](https://www.destroyallsoftware.com/screencasts/catalog/data-compressor-from-scratch)
+
+## Preservation of complex media
+- [Re-Collection: Art, New Media, and Social Memory](http://re-collection.net/educational_resources.html)
+- "variable media behaviors": contained, installed, performed, interactive, reproduced, interchangeable, encoded, networked
+- wishing I could play [this interactive fiction on laserdisk](https://digipres.club/@joe/99814029127707315)
+
+## Feelings 
+- **BLOG POST** [First Week at Recurse Center](http://bits.ashleyblewer.com/blog/2018/04/06/first-week-at-RC/).
+- Something obvious to me when working in the context of the humanities is that we each have specific knowledge about a subject derived from our own lenses and cumulative individual experience (hello Black feminist critical theory), and the sooner I acknowledge this applies to technical subjects too, the better off I’ll be. RC is a great place for this because of the diverse experience and backgrounds collaborating in one space, but harder in a small monoculture like digital preservation.
+
 ## Misc 
 - first added a xml feed to my blog, next day I actually showcase that endpoint so people can use it: http://bits.ashleyblewer.com/feed.xml if you want to subscribe
 - TIL zulip offers free hosting for OSS projects https://zulipchat.com/for/open-source/
 - Looking at http://www.vapoursynth.com/about/
 - adding increasingly dangerous amounts of coffee
-- thinking of writing about cohorts 
 - [my review was requested](https://github.com/amiaopensource/audiorecorder/pull/69) on audiorecorder
 - "are you upstate or something? I picture you in some sort of compound like the end of mad men"
 
-## (Pre-RC Ideas Zone)
+## (Ideas Zone)
 - Video container/codec review, how do significant properties relate to each other when established by each format?
 - containers versus codecs, how do they work together (or not together?)
 
 # Week 2 (April 9-13)
+
 
 ## (Pre-RC Ideas Zone)
 - Begin manipulation of raw video data 
