@@ -103,6 +103,10 @@ Popular algorithm names:
 
 # Week 1 (April 2-6): "Containers/codecs"
 
+## Code written 
+
+- Hmm, nothing that would merit a check-in...
+
 ## Exploring Matroska attachments
 - file format polyglot-ing (put mkv file inside mkv file)
 - This was very easy thanks to [MKVToolNix](http://mkvtoolnix.download/)!  
@@ -222,7 +226,8 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - [Kostya's Boring Codec World](https://codecs.multimedia.cx/)
 - but especially: [NihAV — Concept and Principles](https://codecs.multimedia.cx/2017/06/nihav-concept-and-principles/)
 - The above blog post helps me break down my own problems-I-will-be-creating-for-myself with this statement: "I hope the domain for NihAV is clear: it will take ByteIO input, demux data using it (packets or elementary stream chunks—if you want them in packet format then use a parser), optionally fill timestamp information, decode frames, reorder them in display order if requested, similar approach for writing data."
-- [hello-rust show](https://github.com/hello-rust/show/)
+- ["How to rewrite your project in Rust"](https://unhandledexpression.com/2017/07/12/how-to-rewrite-you-project-in-rust/)
+- [nom](https://github.com/Geal/nom)
 
 ## rust-av
 - [Luca Barbato: Rust-av: Rust and Multimedia](https://blogs.gentoo.org/lu_zero/2018/02/14/rust-av-rust-and-multimedia/)
@@ -238,20 +243,28 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - [Fast Averaging of High Color (16 bit) Pixels](https://medium.com/@luc.trudeau/fast-averaging-of-high-color-16-bit-pixels-cb4ac7fd1488)
 - [Videos about AV1](https://www.youtube.com/watch?v=68uCu-jWbgU&list=PLDa6QBb3vqVzcVBCWS3WKrcvf4ZqJeiW-)
 
+## Video, in general 
+
+- ["How VLC works"](http://dev.unhandledexpression.com/slides/rustconf-2016/vlc/#17.0): a helpful slide!
+- ["Multimedia Data"](http://users.cs.cf.ac.uk/Dave.Marshall/Multimedia/node141.html)
+- "data moshing" but actually doing it instead of just "enjoying" it 
+- ❣️ [Irish Film Archives great microservices collection](https://github.com/kieranjol/IFIscripts)
+- [What Is A LUT? Explained with Cats.](https://vimeo.com/120318153)
+
 ## Linear Algebra 
+
 I think I may have to overcome my utter lack of maths knowledge soon...
+- above is clearly everything I'm doing to avoid this topic
 - [Matrix coefficient](https://en.wikipedia.org/wiki/Matrix_coefficient)?
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (thanks Jess!)
 - [New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) (thanks Jess!)
 
-
 ## Misc 
 - [aparrish/text-resources](https://github.com/aparrish/text-resources)
-- ❣️ [Irish Film Archives great microservices collection](https://github.com/kieranjol/IFIscripts)
-- ["Multimedia Data"](http://users.cs.cf.ac.uk/Dave.Marshall/Multimedia/node141.html)
-- "data moshing" but actually doing it instead of just "enjoying" it 
 - TIL: `| hexdump` does exactly what you think it does
-
+- [destroyallsoftware: intro to computation series](https://www.destroyallsoftware.com/screencasts/catalog/introduction-to-computation)
+- wondering why I didn't learn how to use Vim 3 years ago 🙄 because it's great 😅
+- bonus [vimrc](https://github.com/amix/vimrc)
 
 
 # Week 3 (April 16-20)
