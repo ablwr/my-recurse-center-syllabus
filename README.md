@@ -219,15 +219,25 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 
 # Week 2 (April 9-13): "Minimum Viable Codec"
 
+## Code written 
+- [menstruation rollercoaster (2D)](http://bits.ashleyblewer.com/menstruation-dataviz/): ya my period data from the last decade is irregular.
+
 ## Minimum Viable Codec
 - What does this look like?
 
 ## Rust vs multimedia 
+- **BLOG POST** [Considering Rust](http://bits.ashleyblewer.com/blog/2018/04/09/considering-rust/)
+- **BLOG POST** [Considering Rust ...for Video](http://bits.ashleyblewer.com/blog/2018/04/10/considering-rust-for-video/)
 - [Kostya's Boring Codec World](https://codecs.multimedia.cx/)
 - but especially: [NihAV — Concept and Principles](https://codecs.multimedia.cx/2017/06/nihav-concept-and-principles/)
 - The above blog post helps me break down my own problems-I-will-be-creating-for-myself with this statement: "I hope the domain for NihAV is clear: it will take ByteIO input, demux data using it (packets or elementary stream chunks—if you want them in packet format then use a parser), optionally fill timestamp information, decode frames, reorder them in display order if requested, similar approach for writing data."
+
+## Rust in general
 - ["How to rewrite your project in Rust"](https://unhandledexpression.com/2017/07/12/how-to-rewrite-you-project-in-rust/)
 - [nom](https://github.com/Geal/nom)
+- Something I won't be doing soon PROBABLY, making [a N64 emulator in rust](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2)
+- ❣️ [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+- ❣️ [rustlings](https://github.com/carols10cents/rustlings): Small exercises to get you used to reading and writing Rust code. SUPER SMALL! Really excited about the simplicity here.
 
 ## rust-av
 - [Luca Barbato: Rust-av: Rust and Multimedia](https://blogs.gentoo.org/lu_zero/2018/02/14/rust-av-rust-and-multimedia/)
@@ -236,6 +246,7 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 
 ## Codecs, etc
 
+- [HuffYUV](https://wiki.multimedia.cx/index.php?title=HuffYUV)
 - [Chroma from Luma Intra Prediction for AV1](https://docs.google.com/presentation/d/13yUG1lyNmf_TtWARvOJRGa05EVknKya-VEDZ_8L22P8/edit#slide=id.p)
 - [Chroma from Luma lightning talk](https://bambuser.com/v/6909221#t=7258s): intra-frame! Video from VDD '17
 - [CfL Design Doc for AV1 (draft)](https://docs.google.com/document/d/1T86spqQqt7o3LWj3FeaOPUJ2vZ_DSgImJ2r0on8wP-g/edit)
@@ -265,6 +276,8 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [destroyallsoftware: intro to computation series](https://www.destroyallsoftware.com/screencasts/catalog/introduction-to-computation)
 - wondering why I didn't learn how to use Vim 3 years ago 🙄 because it's great 😅
 - bonus [vimrc](https://github.com/amix/vimrc)
+- I made kombucha for the first time, it was rose flavored, and I drank it.
+- Play all these at the same time: [1](https://www.youtube.com/watch?v=FSxquE6VDiQ), [2](https://www.youtube.com/watch?v=OwLq7Q4J5tw), [3](https://www.youtube.com/watch?v=XBcWAydqtow)
 
 
 # Week 3 (April 16-20)
