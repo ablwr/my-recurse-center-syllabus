@@ -233,11 +233,13 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - The above blog post helps me break down my own problems-I-will-be-creating-for-myself with this statement: "I hope the domain for NihAV is clear: it will take ByteIO input, demux data using it (packets or elementary stream chunks—if you want them in packet format then use a parser), optionally fill timestamp information, decode frames, reorder them in display order if requested, similar approach for writing data."
 
 ## Rust in general
+- **BLOG POST** [Error Handling in Rust](http://bits.ashleyblewer.com/blog/2018/04/12/error-handling-in-rust/)
 - ["How to rewrite your project in Rust"](https://unhandledexpression.com/2017/07/12/how-to-rewrite-you-project-in-rust/)
 - [nom](https://github.com/Geal/nom)
 - Something I won't be doing soon PROBABLY, making [a N64 emulator in rust](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2)
 - ❣️ [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
-- ❣️ [rustlings](https://github.com/carols10cents/rustlings): Small exercises to get you used to reading and writing Rust code. SUPER SMALL! Really excited about the simplicity here.
+- ❣️ [rustlings](https://github.com/carols10cents/rustlings): Small exercises to get you used to reading and writing Rust code. SUPER SMALL! Really excited about the simplicity here and it pushed me to really read [the book](https://doc.rust-lang.org/book/second-edition/ch01-00-introduction.html), which is also full of examples.
+
 
 ## rust-av
 - [Luca Barbato: Rust-av: Rust and Multimedia](https://blogs.gentoo.org/lu_zero/2018/02/14/rust-av-rust-and-multimedia/)
@@ -270,6 +272,12 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) (thanks Jess!)
 - [New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) (thanks Jess!)
 
+## Feelings
+
+- Learning can feel painful and that's okay! 
+- How to make mistakes, acknowledge them, correct them, and move forward.
+- The difficulties of committing (and wanting to commit) to 100% focus on something (this) but still having to manage winding down paused or ending freelance projects, maintaining pre-existing relationships, and trying not to worry about housing and employment after RC.
+
 ## Misc 
 - [aparrish/text-resources](https://github.com/aparrish/text-resources)
 - TIL: `| hexdump` does exactly what you think it does
@@ -278,6 +286,7 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - bonus [vimrc](https://github.com/amix/vimrc)
 - I made kombucha for the first time, it was rose flavored, and I drank it.
 - Play all these at the same time: [1](https://www.youtube.com/watch?v=FSxquE6VDiQ), [2](https://www.youtube.com/watch?v=OwLq7Q4J5tw), [3](https://www.youtube.com/watch?v=XBcWAydqtow)
+- [Rosa Menkman - A Vernacular of File Formats](https://www.slideshare.net/r00s/rosa-menkman-a-vernacular-of-file-formats-4923967)
 
 
 # Week 3 (April 16-20)
