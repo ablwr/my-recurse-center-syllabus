@@ -231,9 +231,11 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - [Kostya's Boring Codec World](https://codecs.multimedia.cx/)
 - but especially: [NihAV — Concept and Principles](https://codecs.multimedia.cx/2017/06/nihav-concept-and-principles/)
 - The above blog post helps me break down my own problems-I-will-be-creating-for-myself with this statement: "I hope the domain for NihAV is clear: it will take ByteIO input, demux data using it (packets or elementary stream chunks—if you want them in packet format then use a parser), optionally fill timestamp information, decode frames, reorder them in display order if requested, similar approach for writing data."
+- [Huffman coding implementation in Rust](http://pramode.in/2016/09/26/huffman-coding-in-rust/)
 
 ## Rust in general
 - **BLOG POST** [Error Handling in Rust](http://bits.ashleyblewer.com/blog/2018/04/12/error-handling-in-rust/)
+- **BLOG POST** [Stealing Snax using Rust](http://bits.ashleyblewer.com/blog/2018/04/13/stealing-snax-using-rust/)
 - ["How to rewrite your project in Rust"](https://unhandledexpression.com/2017/07/12/how-to-rewrite-you-project-in-rust/)
 - [nom](https://github.com/Geal/nom)
 - Something I won't be doing soon PROBABLY, making [a N64 emulator in rust](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2)
@@ -274,6 +276,7 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 
 ## Feelings
 
+- **BLOG POST** [Second Week at RC](http://bits.ashleyblewer.com/blog/2018/04/13/second-week-at-RC/)
 - Learning can feel painful and that's okay! 
 - How to make mistakes, acknowledge them, correct them, and move forward.
 - The difficulties of committing (and wanting to commit) to 100% focus on something (this) but still having to manage winding down paused or ending freelance projects, maintaining pre-existing relationships, and trying not to worry about housing and employment after RC.
