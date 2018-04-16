@@ -294,6 +294,17 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 
 # Week 3 (April 16-20)
 
+## Analog Video! 
+- [Tektronix - The Vectorscope -- It's All About Color! V 2.0](https://www.youtube.com/watch?v=z-UBLJdd2g0)
+- [Understanding Analog Video Signals](https://www.maximintegrated.com/en/app-notes/index.mvp/id/1184)
+- [Video format tables](http://videopreservation.conservation-us.org/dig_mig/video_formats_v4_850.html)
+
+## Misc 
+- Teaching in DC on Tues - Sad to miss even one day 😿
+- TIL: `vimtutor`
+- [Internet Girlfriend Club Volume 7 goes live](http://internetgirlfriend.club/)
+- Analyze [moshbot](https://github.com/lirien/moshbot)
+- [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
 
 # Week 4 (April 23-27)
 
@@ -313,15 +324,15 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 # Week 7 (May 21-25)
 
-- Codec-building, codec-built? 
+[ TBD: Intentionally unstructured play ]
 
 # Week 8 (May 28 - June 1)
 
-- Codec-building, codec-built? 
+[ TBD: Intentionally unstructured play ]
 
 # Week 9 (June 4-8)
 
-- Steps to build a video player?
+[ TBD: Intentionally unstructured play ]
 
 # Week 10 (June 11-15)
 
