@@ -294,10 +294,24 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 
 # Week 3 (April 16-20)
 
+## Code written
+- [hello264-rust](https://github.com/ablwr/hello264-rust)
+- [avpres-training: video update](http://training.ashleyblewer.com/presentations/video.html)
+- [ablwr/talks/ARCH2018](https://github.com/ablwr/talks)
+
 ## Analog Video! 
 - [Tektronix - The Vectorscope -- It's All About Color! V 2.0](https://www.youtube.com/watch?v=z-UBLJdd2g0)
 - [Understanding Analog Video Signals](https://www.maximintegrated.com/en/app-notes/index.mvp/id/1184)
 - [Video format tables](http://videopreservation.conservation-us.org/dig_mig/video_formats_v4_850.html)
+- [New York City in 1993 in HD - DTheater DVHS Demo Tape](https://www.youtube.com/watch?v=fT4lDU-QLUY) | [theverge writup](https://www.theverge.com/2016/4/25/11503816/new-york-city-hd-footage-manhattan)
+
+
+## Encoding 
+- [World's Smallest h.264 Encoder](https://cardinalpeak.com/blog/worlds-smallest-h-264-encoder/)
+- [Minimal video player example](http://roxlu.com/2014/039/decoding-h264-and-yuv420p-playback)
+
+## Rust 
+- [intermezzOS](https://intermezzos.github.io/)
 
 ## Misc 
 - Teaching in DC on Tues - Sad to miss even one day 😿
@@ -305,6 +319,13 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [Internet Girlfriend Club Volume 7 goes live](http://internetgirlfriend.club/)
 - Analyze [moshbot](https://github.com/lirien/moshbot)
 - [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
+- TIL: `| nc termbin.com 9999` for quick code-sharing between computers
+- [trackingjs](https://trackingjs.com/)
+- [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
+- [Essential thoughtleadership theory](https://www.youtube.com/watch?v=AqSZhwu1Rwo)
+- [Software Defined Radio hardware](https://www.amazon.com/gp/product/B011HVUEME/ref=od_aui_detailpages00?ie=UTF8&psc=1)
+- TIL: `xxd`
+
 
 # Week 4 (April 23-27)
 
