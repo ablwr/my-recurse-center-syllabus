@@ -107,14 +107,19 @@ Popular algorithm names:
 
 - Hmm, nothing that would merit a check-in...
 
+## Blogging 
+
+- [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
+- [All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
+- [Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
+- [Lenticular film, lenticular codec](http://bits.ashleyblewer.com/blog/2018/04/04/lenticular-film-lenticular-codec/)
+- [First Week at Recurse Center](http://bits.ashleyblewer.com/blog/2018/04/06/first-week-at-RC/).
+
 ## Exploring Matroska attachments
 - file format polyglot-ing (put mkv file inside mkv file)
 - This was very easy thanks to [MKVToolNix](http://mkvtoolnix.download/)!  
-- **BLOG POST** [Making a Matroska Magic Hat](http://bits.ashleyblewer.com/blog/2018/04/02/matroska-magic-hat/).
 
 ## Understand how codecs are made 
-- **BLOG POST** [All the stuff between EBML and Matroska](http://bits.ashleyblewer.com/blog/2018/04/03/all-the-stuff-between-ebml-and-matroska/)
-- **BLOG POST** [Exploring codecs and data streams](http://bits.ashleyblewer.com/blog/2018/04/03/exploring-codecs-and-data-streams/)
 - read up on codecs
 
 ## Open or non-open codecs, standards:
@@ -137,7 +142,6 @@ Popular algorithm names:
 
 ## Codec exploration: ./lenticular 
 
-- **BLOG POST** [Lenticular film, lenticular codec](http://bits.ashleyblewer.com/blog/2018/04/04/lenticular-film-lenticular-codec/)
 - investigation of [lenticular](https://github.com/amiaopensource/lenticular), a codec-in-progress for lenticular film
 - Running lenticular partially successfully 
 - Ran into [segmentation faults](https://en.wikipedia.org/wiki/Segmentation_fault) and I'd like to explore these more, but moving on for now
@@ -200,7 +204,6 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 - wishing I could play [this interactive fiction on laserdisk](https://digipres.club/@joe/99814029127707315)
 
 ## Feelings 
-- **BLOG POST** [First Week at Recurse Center](http://bits.ashleyblewer.com/blog/2018/04/06/first-week-at-RC/).
 - Something obvious to me when working in the context of the humanities is that we each have specific knowledge about a subject derived from our own lenses and cumulative individual experience (hello Black feminist critical theory), and the sooner I acknowledge this applies to technical subjects too, the better off I’ll be. RC is a great place for this because of the diverse experience and backgrounds collaborating in one space, but harder in a small monoculture like digital preservation.
 - adding increasingly dangerous amounts of coffee, trying to reign it in
 
@@ -222,20 +225,23 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 ## Code written 
 - [menstruation rollercoaster (2D)](http://bits.ashleyblewer.com/menstruation-dataviz/): ya my period data from the last decade is irregular.
 
+## Blogging 
+- [Considering Rust](http://bits.ashleyblewer.com/blog/2018/04/09/considering-rust/)
+- [Considering Rust ...for Video](http://bits.ashleyblewer.com/blog/2018/04/10/considering-rust-for-video/)
+- [Error Handling in Rust](http://bits.ashleyblewer.com/blog/2018/04/12/error-handling-in-rust/)
+- [Stealing Snax using Rust](http://bits.ashleyblewer.com/blog/2018/04/13/stealing-snax-using-rust/)
+- [Second Week at RC](http://bits.ashleyblewer.com/blog/2018/04/13/second-week-at-RC/)
+
 ## Minimum Viable Codec
 - What does this look like?
 
 ## Rust vs multimedia 
-- **BLOG POST** [Considering Rust](http://bits.ashleyblewer.com/blog/2018/04/09/considering-rust/)
-- **BLOG POST** [Considering Rust ...for Video](http://bits.ashleyblewer.com/blog/2018/04/10/considering-rust-for-video/)
 - [Kostya's Boring Codec World](https://codecs.multimedia.cx/)
 - but especially: [NihAV — Concept and Principles](https://codecs.multimedia.cx/2017/06/nihav-concept-and-principles/)
 - The above blog post helps me break down my own problems-I-will-be-creating-for-myself with this statement: "I hope the domain for NihAV is clear: it will take ByteIO input, demux data using it (packets or elementary stream chunks—if you want them in packet format then use a parser), optionally fill timestamp information, decode frames, reorder them in display order if requested, similar approach for writing data."
 - [Huffman coding implementation in Rust](http://pramode.in/2016/09/26/huffman-coding-in-rust/)
 
 ## Rust in general
-- **BLOG POST** [Error Handling in Rust](http://bits.ashleyblewer.com/blog/2018/04/12/error-handling-in-rust/)
-- **BLOG POST** [Stealing Snax using Rust](http://bits.ashleyblewer.com/blog/2018/04/13/stealing-snax-using-rust/)
 - ["How to rewrite your project in Rust"](https://unhandledexpression.com/2017/07/12/how-to-rewrite-you-project-in-rust/)
 - [nom](https://github.com/Geal/nom)
 - Something I won't be doing soon PROBABLY, making [a N64 emulator in rust](https://www.youtube.com/playlist?list=PL-sXmdrqqYYcznDg4xwAJWQgNL2gRray2)
@@ -275,8 +281,6 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [New fast.ai course: Computational Linear Algebra](http://www.fast.ai/2017/07/17/num-lin-alg/) (thanks Jess!)
 
 ## Feelings
-
-- **BLOG POST** [Second Week at RC](http://bits.ashleyblewer.com/blog/2018/04/13/second-week-at-RC/)
 - Learning can feel painful and that's okay! 
 - How to make mistakes, acknowledge them, correct them, and move forward.
 - The difficulties of committing (and wanting to commit) to 100% focus on something (this) but still having to manage winding down paused or ending freelance projects, maintaining pre-existing relationships, and trying not to worry about housing and employment after RC.
@@ -298,6 +302,10 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [hello264-rust](https://github.com/ablwr/hello264-rust)
 - [avpres-training: video update](http://training.ashleyblewer.com/presentations/video.html)
 - [ablwr/talks/ARCH2018](https://github.com/ablwr/talks)
+
+## Blogging 
+- [Week 3 Feelings Check-in](http://bits.ashleyblewer.com/blog/2018/04/21/third-week-at-recurse-center-feelings-check-in/)
+- [What is a Minimum Viable Codec?](http://bits.ashleyblewer.com/blog/2018/04/21/what-is-a-minimum-viable-codec/)
 
 ## Analog Video! 
 - [Tektronix - The Vectorscope -- It's All About Color! V 2.0](https://www.youtube.com/watch?v=z-UBLJdd2g0)
