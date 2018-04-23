@@ -348,6 +348,7 @@ Goals at the start of this week:
 - Writing h264 decoder / mini-player 
 - Getting Rust to the browser with wasm-pack
 - Writing encoder for video streams using huffman algo
+- Not have a cold anymore
 
 ## Code written 
 
