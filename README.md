@@ -343,6 +343,12 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 
 # Week 4 (April 23-27) "Minimum Viable Codec" (Decoding)
 
+## Goals 
+Goals at the start of this week:  
+- Writing h264 decoder / mini-player 
+- Getting Rust to the browser with wasm-pack
+- Writing encoder for video streams using huffman algo
+
 ## Code written 
 
 ## Blogging 
@@ -362,7 +368,7 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [zodiacpress](https://github.com/isabelc/zodiacpress) for the technical underpinning of how astrological natal charts are created and here's an [example](https://cafeastrology.com/free-natal-chart-report.html) in case I want to rewrite
 - "wholesome deepfakes"
 - ["What does it mean to raise a family or to grow up under constant surveillance?"](http://www.nybooks.com/daily/2018/04/21/the-fbis-vulgar-betrayal-of-muslim-americans/)
-
+- Something to think about later: [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
 
 # Week 5 (April 30 - May 4)
 
