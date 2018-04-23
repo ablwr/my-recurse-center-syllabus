@@ -220,7 +220,7 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 
 
 
-# Week 2 (April 9-13): "Minimum Viable Codec"
+# Week 2 (April 9-13): R U S T
 
 ## Code written 
 - [menstruation rollercoaster (2D)](http://bits.ashleyblewer.com/menstruation-dataviz/): ya my period data from the last decade is irregular.
@@ -296,12 +296,13 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [Rosa Menkman - A Vernacular of File Formats](https://www.slideshare.net/r00s/rosa-menkman-a-vernacular-of-file-formats-4923967)
 
 
-# Week 3 (April 16-20)
+# Week 3 (April 16-20) "Minimum Viable Codec" (Encoding)
 
 ## Code written
 - [hello264-rust](https://github.com/ablwr/hello264-rust)
 - [avpres-training: video update](http://training.ashleyblewer.com/presentations/video.html)
 - [ablwr/talks/ARCH2018](https://github.com/ablwr/talks)
+- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): open/close all recipe syntax and new recipe
 
 ## Blogging 
 - [Week 3 Feelings Check-in](http://bits.ashleyblewer.com/blog/2018/04/21/third-week-at-recurse-center-feelings-check-in/)
@@ -312,14 +313,17 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [Understanding Analog Video Signals](https://www.maximintegrated.com/en/app-notes/index.mvp/id/1184)
 - [Video format tables](http://videopreservation.conservation-us.org/dig_mig/video_formats_v4_850.html)
 - [New York City in 1993 in HD - DTheater DVHS Demo Tape](https://www.youtube.com/watch?v=fT4lDU-QLUY) | [theverge writup](https://www.theverge.com/2016/4/25/11503816/new-york-city-hd-footage-manhattan)
-
+- "cost of action calculator"
 
 ## Encoding 
-- [World's Smallest h.264 Encoder](https://cardinalpeak.com/blog/worlds-smallest-h-264-encoder/)
-- [Minimal video player example](http://roxlu.com/2014/039/decoding-h264-and-yuv420p-playback)
+- ❣️ [World's Smallest h.264 Encoder](https://cardinalpeak.com/blog/worlds-smallest-h-264-encoder/)
+- [Minimal video player example](http://roxlu.com/2014/039/decoding-h264-and-yuv420p-playback) (h264 decoder!)
+- [The h.264 Sequence Parameter Set](https://cardinalpeak.com/blog/the-h-264-sequence-parameter-set/)
+- [Common Intermediate Format](https://en.wikipedia.org/wiki/Common_Intermediate_Format)
 
 ## Rust 
 - [intermezzOS](https://intermezzos.github.io/)
+- [How Rust Do](https://blog.jfo.click/how-rust-do/)
 
 ## Misc 
 - Teaching in DC on Tues - Sad to miss even one day 😿
@@ -332,18 +336,49 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 - [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
 - [Essential thoughtleadership theory](https://www.youtube.com/watch?v=AqSZhwu1Rwo)
 - [Software Defined Radio hardware](https://www.amazon.com/gp/product/B011HVUEME/ref=od_aui_detailpages00?ie=UTF8&psc=1)
-- TIL: `xxd`
+- TIL: `xxd` looks better (imo) than `hexdump`
+- [h264bitstream](https://github.com/aizvorski/h264bitstream) command-line tool to read/write h264 bitstreams
+- [C Syntax cheatsheet](https://courses.cs.washington.edu/courses/cse351/14sp/sections/1/Cheatsheet-c.pdf)
 
 
-# Week 4 (April 23-27)
+# Week 4 (April 23-27) "Minimum Viable Codec" (Decoding)
+
+## Code written 
+
+## Blogging 
+
+## Feelings
+- Coming to terms with how I kinda don't actually like "solving hard problems" (when understood as a euphemism used by engineers to describe difficult purely-technical problems) but much prefer helping making hard problems easier to leverage, understand, and use for others. I'm trying to not focus on career concerns right now but I think this does have a lot of implications for what I want to do in the future.
+
+## WASM 
+- [Hello wasm-pack!](https://hacks.mozilla.org/2018/04/hello-wasm-pack/)
+- [Significance of documentation in rating Rust crates](http://rust-lang.github.io/rfcs/1824-crates.io-default-ranking.html#easy-to-use)
+
+## Video 
+- ❣️ [Introducing AV1 and Open Video Codecs](https://www.youtube.com/watch?v=lEdqN22vaWs)
+
+## Misc 
+- "computer mediated mysticism"
+- [zodiacpress](https://github.com/isabelc/zodiacpress) for the technical underpinning of how astrological natal charts are created and here's an [example](https://cafeastrology.com/free-natal-chart-report.html) in case I want to rewrite
+- "wholesome deepfakes"
+- ["What does it mean to raise a family or to grow up under constant surveillance?"](http://www.nybooks.com/daily/2018/04/21/the-fbis-vulgar-betrayal-of-muslim-americans/)
 
 
 # Week 5 (April 30 - May 4)
 
+## Code written 
+
+## Blogging 
+
+## Misc 
 
 # Week 6 (May 7-11)
 
-- Codec-building! rough drafts?
+## Code written 
+
+## Blogging 
+
+## Misc 
 
 # BONUS WEEK (May 14-18)
 
@@ -383,7 +418,7 @@ There is no end! Never graduate!
 
 Some ideas I have for small projects to work on!
 
-## Birthday-starmap generator
+## Birthday planet map generator
  
 Generate an image that shows the state of the solar system at the time of someone's birth and text that explains how that aligns to someone's astrological sign (and moon sign, and rising sign). I think this mini-project will involve: Understanding the rules of astrology, some math about how fast planets move around the sun in relation to each other, ImageMagick to produce a proper image.
 
