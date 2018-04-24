@@ -371,6 +371,7 @@ Goals at the start of this week:
 - `ffplay -f lavfi mptestsrc=t=all`
 - [Current Status of Codecs in Nov 2017 talk](https://www.streamingtech.se/player.html?id=stswe17-ozer): Has me thinking about the massive costs associated with license-based codecs, really drives home how important the open collaborative work of AV1. Also thinking about how codecs are geographically-based in significance when these licensing/royalties costs to decode or for hardware-support are involved.
 - "Same quality" -- how is quality assessed?
+- `-psy               <boolean>    E..V..... Use psychovisual optimizations. (default auto)` (sounds cooler than it is)
 
 ## Misc 
 - "computer mediated mysticism"
