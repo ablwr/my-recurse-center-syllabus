@@ -346,13 +346,14 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 ## Goals 
 Goals at the start of this week:  
 - Writing h264 decoder / mini-player 
-- Getting Rust to the browser with wasm-pack
+- Getting Rust to the browser with wasm - done!
 - Writing encoder for video streams using huffman algo
-- Not have a cold anymore
+- Not have a cold anymore - done!
 
 ## Code written 
 
 ## Blogging 
+- [Uncompressed versus uncompressed packed video](http://bits.ashleyblewer.com/blog/2018/04/25/uncompressed-versus-uncompressed-packed-video/)
 
 ## Feelings
 - Coming to terms with how I kinda don't actually like "solving hard problems" (when understood as a euphemism used by engineers to describe difficult purely-technical problems) but much prefer helping making hard problems easier to leverage, understand, and use for others. I'm trying to not focus on career concerns right now but I think this does have a lot of implications for what I want to do in the future.
@@ -363,6 +364,13 @@ Goals at the start of this week:
 
 ## Video 
 - ❣️ [Introducing AV1 and Open Video Codecs](https://www.youtube.com/watch?v=lEdqN22vaWs)
+- [four.cc: YUV Pixel Formats](http://www.fourcc.org/yuv.php)
+- [four.cc: YUV to RGB Conversion](http://www.fourcc.org/fccyvrgb.php)
+- "linesize"??
+- [frei0r filters](https://frei0r.dyne.org/)
+- `ffplay -f lavfi mptestsrc=t=all`
+- [Current Status of Codecs in Nov 2017 talk](https://www.streamingtech.se/player.html?id=stswe17-ozer): Has me thinking about the massive costs associated with license-based codecs, really drives home how important the open collaborative work of AV1. Also thinking about how codecs are geographically-based in significance when these licensing/royalties costs to decode or for hardware-support are involved.
+- "Same quality" -- how is quality assessed?
 
 ## Misc 
 - "computer mediated mysticism"
@@ -370,6 +378,10 @@ Goals at the start of this week:
 - "wholesome deepfakes"
 - ["What does it mean to raise a family or to grow up under constant surveillance?"](http://www.nybooks.com/daily/2018/04/21/the-fbis-vulgar-betrayal-of-muslim-americans/)
 - Something to think about later: [TLA+](https://en.wikipedia.org/wiki/TLA%2B)
+- [mosh_bot source code](https://github.com/lirien/moshbot)
+- [Delta.NYC](https://www.civichalllabs.org/probonotech/)
+- "side data" and "main data"
+- "bit reservoir"
 
 # Week 5 (April 30 - May 4)
 
