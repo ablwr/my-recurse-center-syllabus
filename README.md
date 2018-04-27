@@ -351,6 +351,7 @@ Goals at the start of this week:
 - Not have a cold anymore - done!
 
 ## Code written 
+- Hmmm...
 
 ## Blogging 
 - [Uncompressed versus uncompressed packed video](http://bits.ashleyblewer.com/blog/2018/04/25/uncompressed-versus-uncompressed-packed-video/)
@@ -372,6 +373,10 @@ Goals at the start of this week:
 - [Current Status of Codecs in Nov 2017 talk](https://www.streamingtech.se/player.html?id=stswe17-ozer): Has me thinking about the massive costs associated with license-based codecs, really drives home how important the open collaborative work of AV1. Also thinking about how codecs are geographically-based in significance when these licensing/royalties costs to decode or for hardware-support are involved.
 - "Same quality" -- how is quality assessed?
 - `-psy               <boolean>    E..V..... Use psychovisual optimizations. (default auto)` (sounds cooler than it is)
+- [Streaming Video and Audio with Low Delay](http://steinwurf.com/blog/2018-04-25-2022.html)
+- ❣️ [Learn FFmpeg libav the Hard Way](https://github.com/leandromoreira/ffmpeg-libav-tutorial#learn-ffmpeg-libav-the-hard-way)
+- [vaporwave player](https://github.com/bdon/vaporwave)
+- "transrating" changing the bitrate of a file 
 
 ## Misc 
 - "computer mediated mysticism"
@@ -383,6 +388,20 @@ Goals at the start of this week:
 - [Delta.NYC](https://www.civichalllabs.org/probonotech/)
 - "side data" and "main data"
 - "bit reservoir"
+- "syntactic noise"
+- how the internet works outside of home router
+- "smart pointers"
+- [Cinder](https://libcinder.org/)
+- [3d snorlax](https://www.thingiverse.com/thing:2264822)
+
+
+YUV2RGB shader math  
+```
+vec3 yuv = vec3(yColor.r - 16.0/256, uColor.r - 0.5, vColor.r - 0.5);
+oColor.x = dot(yuv, vec3(1.164,  0.000,  1.596));
+oColor.y = dot(yuv, vec3(1.164, -0.391, -0.813));
+oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
+```
 
 # Week 5 (April 30 - May 4)
 
