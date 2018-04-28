@@ -224,6 +224,7 @@ Lots of talks and inspiration from batchmate [Marianne](http://mkcor.github.io/)
 
 ## Code written 
 - [menstruation rollercoaster (2D)](http://bits.ashleyblewer.com/menstruation-dataviz/): ya my period data from the last decade is irregular.
+- [Internet Girlfriend Club Volume 7 goes live](http://internetgirlfriend.club/)
 
 ## Blogging 
 - [Considering Rust](http://bits.ashleyblewer.com/blog/2018/04/09/considering-rust/)
@@ -328,12 +329,9 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 ## Misc 
 - Teaching in DC on Tues - Sad to miss even one day 😿
 - TIL: `vimtutor`
-- [Internet Girlfriend Club Volume 7 goes live](http://internetgirlfriend.club/)
 - Analyze [moshbot](https://github.com/lirien/moshbot)
-- [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
 - TIL: `| nc termbin.com 9999` for quick code-sharing between computers
 - [trackingjs](https://trackingjs.com/)
-- [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
 - [Essential thoughtleadership theory](https://www.youtube.com/watch?v=AqSZhwu1Rwo)
 - [Software Defined Radio hardware](https://www.amazon.com/gp/product/B011HVUEME/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 - TIL: `xxd` looks better (imo) than `hexdump`
@@ -355,9 +353,8 @@ Goals at the start of this week:
 
 ## Blogging 
 - [Uncompressed versus uncompressed packed video](http://bits.ashleyblewer.com/blog/2018/04/25/uncompressed-versus-uncompressed-packed-video/)
-
-## Feelings
-- Coming to terms with how I kinda don't actually like "solving hard problems" (when understood as a euphemism used by engineers to describe difficult purely-technical problems) but much prefer helping making hard problems easier to leverage, understand, and use for others. I'm trying to not focus on career concerns right now but I think this does have a lot of implications for what I want to do in the future.
+- [Rust Study Group Notes](http://bits.ashleyblewer.com/blog/2018/04/27/rust-study-group-notes/)
+- [Week 4 of 12 at Recurse Center](http://bits.ashleyblewer.com/blog/2018/04/27/week-four-at-recurse-center/)
 
 ## WASM 
 - [Hello wasm-pack!](https://hacks.mozilla.org/2018/04/hello-wasm-pack/)
@@ -378,6 +375,14 @@ Goals at the start of this week:
 - [vaporwave player](https://github.com/bdon/vaporwave)
 - "transrating" changing the bitrate of a file 
 
+## Deep video 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
+- [Exploring deepfakes](https://hackernoon.com/exploring-deepfakes-20c9947c22d9)
+- [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
+- [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
+- [Introduction to Deepfakes tutorial series](https://www.alanzucconi.com/2018/03/14/introduction-to-deepfakes/)
+
+
 ## Misc 
 - "computer mediated mysticism"
 - [zodiacpress](https://github.com/isabelc/zodiacpress) for the technical underpinning of how astrological natal charts are created and here's an [example](https://cafeastrology.com/free-natal-chart-report.html) in case I want to rewrite
@@ -393,7 +398,7 @@ Goals at the start of this week:
 - "smart pointers"
 - [Cinder](https://libcinder.org/)
 - [3d snorlax](https://www.thingiverse.com/thing:2264822)
-
+- [Theorizing the Web 2018](http://theorizingtheweb.org/ttw18/)
 
 YUV2RGB shader math  
 ```
