@@ -353,6 +353,7 @@ Goals at the start of this week:
 
 ## Blogging 
 - [Uncompressed versus uncompressed packed video](http://bits.ashleyblewer.com/blog/2018/04/25/uncompressed-versus-uncompressed-packed-video/)
+- [What does audiovisual compression look like?](http://bits.ashleyblewer.com/blog/2018/04/26/what-does-audiovisual-compression-look-like/)
 - [Rust Study Group Notes](http://bits.ashleyblewer.com/blog/2018/04/27/rust-study-group-notes/)
 - [Week 4 of 12 at Recurse Center](http://bits.ashleyblewer.com/blog/2018/04/27/week-four-at-recurse-center/)
 
@@ -413,6 +414,11 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 ## Code written 
 
 ## Blogging 
+
+
+## Video 
+- [DASH playback of AV1 video in Firefox](https://hacks.mozilla.org/2017/11/dash-playback-of-av1-video/)
+- [VLC sample files](http://streams.videolan.org/samples/)
 
 ## Misc 
 
