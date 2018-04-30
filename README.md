@@ -378,6 +378,7 @@ Goals at the start of this week:
 
 ## Deep video 
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
+- [df](https://github.com/dfaker/df)
 - [Exploring deepfakes](https://hackernoon.com/exploring-deepfakes-20c9947c22d9)
 - [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
 - [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
@@ -409,12 +410,16 @@ oColor.y = dot(yuv, vec3(1.164, -0.391, -0.813));
 oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 ```
 
-# Week 5 (April 30 - May 4)
+# Week 5 (April 30 - May 4) (??? Floating in space)
 
 ## Code written 
 
 ## Blogging 
 
+## Calling C in Rust 
+- [Foreign Function Interface](https://doc.rust-lang.org/nomicon/ffi.html)
+- [Calling a C function from Rust](https://blog.jfo.click/calling-a-c-function-from-rust/)
+- [Calling C from Rust](https://jvns.ca/blog/2016/01/18/calling-c-from-rust/)
 
 ## Video 
 - [DASH playback of AV1 video in Firefox](https://hacks.mozilla.org/2017/11/dash-playback-of-av1-video/)
