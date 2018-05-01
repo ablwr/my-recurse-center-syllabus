@@ -413,6 +413,7 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 # Week 5 (April 30 - May 4) (??? Floating in space)
 
 ## Code written 
+- [pbcore-validator](http://bits.ashleyblewer.com/pbcore-validator/)
 
 ## Blogging 
 
@@ -425,7 +426,10 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 - [DASH playback of AV1 video in Firefox](https://hacks.mozilla.org/2017/11/dash-playback-of-av1-video/)
 - [VLC sample files](http://streams.videolan.org/samples/)
 
+
 ## Misc 
+- [How does Chromaprint work](https://oxygene.sk/2011/01/how-does-chromaprint-work/)
+
 
 # Week 6 (May 7-11)
 
