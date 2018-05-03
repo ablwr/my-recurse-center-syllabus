@@ -414,6 +414,7 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 
 ## Code written 
 - [pbcore-validator](http://bits.ashleyblewer.com/pbcore-validator/)
+- [uninsured body simulator](https://github.com/ablwr/uninsured): moles, ocular migraines
 
 ## Blogging 
 
@@ -422,10 +423,20 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 - [Calling a C function from Rust](https://blog.jfo.click/calling-a-c-function-from-rust/)
 - [Calling C from Rust](https://jvns.ca/blog/2016/01/18/calling-c-from-rust/)
 
+## A return to Rust+WASM+JS
+- [JavaScript to Rust and Back Again: A wasm-bindgen Tale](https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/)
+- [Parc3l: Combining Three.js, Rust, and WebAssembly!](https://medium.com/@cwervo/parc3l-combining-three-js-rust-and-webassembly-c1e643ef7681)
+
 ## Video 
 - [DASH playback of AV1 video in Firefox](https://hacks.mozilla.org/2017/11/dash-playback-of-av1-video/)
 - [VLC sample files](http://streams.videolan.org/samples/)
 
+## Video players
+- [Glide media player](https://crates.io/crates/glide)
+- [h264-live-player](https://github.com/131/h264-live-player)
+- [Broadway](https://github.com/mbebenita/Broadway)
+- [ogv.js](https://github.com/brion/ogv.js/)
+- [web-dsp](https://github.com/shamadee/web-dsp)
 
 ## Misc 
 - [How does Chromaprint work](https://oxygene.sk/2011/01/how-does-chromaprint-work/)
