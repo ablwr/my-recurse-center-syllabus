@@ -417,6 +417,8 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 - [uninsured body simulator](https://github.com/ablwr/uninsured): moles, ocular migraines
 
 ## Blogging 
+- [The Story of Goldilocks and the Three WebAssembly Libraries](http://bits.ashleyblewer.com/blog/2018/05/03/goldilocks-and-the-three-webassembly-libraries/)
+- [Week 5 at Recurse Center](http://bits.ashleyblewer.com/blog/2018/05/03/week-five-at-recurse-center/)
 
 ## Calling C in Rust 
 - [Foreign Function Interface](https://doc.rust-lang.org/nomicon/ffi.html)
