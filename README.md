@@ -419,7 +419,7 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 
 ## Blogging 
 - [The Story of Goldilocks and the Three WebAssembly Libraries](http://bits.ashleyblewer.com/blog/2018/05/03/goldilocks-and-the-three-webassembly-libraries/)
-- [Week 5 at Recurse Center](http://bits.ashleyblewer.com/blog/2018/05/03/week-five-at-recurse-center/)
+- [Week 5 at Recurse Center](http://bits.ashleyblewer.com/blog/2018/05/04/week-five-at-recurse-center/)
 - [Mapping the planets with Rust+WebAssembly+JavaScript+Canvas](http://bits.ashleyblewer.com//blog/2018/05/05/mapping-the-planets/)
 
 ## Calling C in Rust 
