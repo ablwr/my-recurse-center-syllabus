@@ -324,7 +324,7 @@ I think I may have to overcome my utter lack of maths knowledge soon...
 
 ## Rust 
 - [intermezzOS](https://intermezzos.github.io/)
-- [How Rust Do](https://blog.jfo.click/how-rust-do/)
+- [How Rust Do](https://blog.jfo.click/how-rust-do/) (some wav generation knowledge here)
 
 ## Misc 
 - Teaching in DC on Tues - Sad to miss even one day 😿
@@ -449,6 +449,7 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 # Week 6 (May 7-11)
 
 ## Code written 
+[Talk: Internet Girlfriend Club!](https://github.com/ablwr/talks)
 
 ## Blogging 
 
@@ -509,7 +510,3 @@ Learn how to better use Processing, new CSS features, or new HTML5 features by r
 Write a linter? A few starting links:
 https://stackoverflow.com/questions/70705/how-to-write-a-linter  
 https://github.com/mcandre/linters  
-
-## "Long Time Vine Preservation"
-
-Fulfill a long-running joke with a friend of mine.
