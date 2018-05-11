@@ -446,14 +446,26 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 - [How does Chromaprint work](https://oxygene.sk/2011/01/how-does-chromaprint-work/)
 
 
-# Week 6 (May 7-11)
+# Week 6 (May 7-11) (Planets in alignment)
 
 ## Code written 
-[Talk: Internet Girlfriend Club!](https://github.com/ablwr/talks)
+- [Talk: Internet Girlfriend Club!](https://github.com/ablwr/talks)
+- [planets](http://bits.ashleyblewer.com/planets/), updated with opts and deployed
 
 ## Blogging 
 
+## Malaysian General Election 2018 
+- [Malaysian General Election c/o Wikipedia](https://en.wikipedia.org/wiki/Malaysian_general_election,_2018)
+- Batchmate [Janice Shiu's story](https://www.facebook.com/partitur/posts/10156008545400399)
+
 ## Misc 
+- ashleyblewer.com finally went https!
+- [XPADxpert](https://www.basicmaster.de/xpadxpert/)
+- [Resisting Surveillance: it's is not just about the metadata](https://media.ccc.de/v/camp2015-6741-resisting_surveillance_it_s_is_not_just_about_the_metadata#t=3601)
+- [MENSTRUAPPS – How to turn your period into money (for others)](https://chupadados.codingrights.org/en/menstruapps-como-transformar-sua-menstruacao-em-dinheiro-para-os-outros/)
+- [Servo engine](https://research.mozilla.org/servo-engines/)
+- [Aura reading](https://www.refinery29.com/aura-reading)
+- Spending most of my time prioritizing being around people who are leaving this week
 
 # BONUS WEEK (May 14-18)
 
