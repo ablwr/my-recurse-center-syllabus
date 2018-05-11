@@ -458,6 +458,11 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 - [Malaysian General Election c/o Wikipedia](https://en.wikipedia.org/wiki/Malaysian_general_election,_2018)
 - Batchmate [Janice Shiu's story](https://www.facebook.com/partitur/posts/10156008545400399)
 
+## Video 
+- [ffmpeg in the browser!!!!!!! videoconverter.js demo](https://bgrins.github.io/videoconverter.js/demo/)
+- [ffmpeg.js](https://github.com/Kagami/ffmpeg.js)
+- [Decode it like its 1999](http://phoboslab.org/log/2017/02/decode-it-like-its-1999)
+
 ## Misc 
 - ashleyblewer.com finally went https!
 - [XPADxpert](https://www.basicmaster.de/xpadxpert/)
@@ -505,7 +510,7 @@ There is no end! Never graduate!
 
 Some ideas I have for small projects to work on!
 
-## Birthday planet map generator
+## Birthday planet map generator -- hey I did this!
  
 Generate an image that shows the state of the solar system at the time of someone's birth and text that explains how that aligns to someone's astrological sign (and moon sign, and rising sign). I think this mini-project will involve: Understanding the rules of astrology, some math about how fast planets move around the sun in relation to each other, ImageMagick to produce a proper image.
 
