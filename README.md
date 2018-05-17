@@ -461,7 +461,9 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 ## Video 
 - [ffmpeg in the browser!!!!!!! videoconverter.js demo](https://bgrins.github.io/videoconverter.js/demo/)
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js)
+- [Building ffmpeg.js for Ubuntu](https://paul.kinlan.me/building-ffmpeg.js/)
 - [Decode it like its 1999](http://phoboslab.org/log/2017/02/decode-it-like-its-1999)
+- [Engineers Making Movies (AKA Open Source Test Content)](https://medium.com/netflix-techblog/engineers-making-movies-aka-open-source-test-content-f21363ea3781)
 
 ## Misc 
 - ashleyblewer.com finally went https!
@@ -470,6 +472,7 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 - [MENSTRUAPPS – How to turn your period into money (for others)](https://chupadados.codingrights.org/en/menstruapps-como-transformar-sua-menstruacao-em-dinheiro-para-os-outros/)
 - [Servo engine](https://research.mozilla.org/servo-engines/)
 - [Aura reading](https://www.refinery29.com/aura-reading)
+- [American Mall Game](https://www.bloomberg.com/features/american-mall-game/)
 - Spending most of my time prioritizing being around people who are leaving this week
 
 # BONUS WEEK (May 14-18)
@@ -478,29 +481,42 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 
 This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
+## Code written 
+- [I-Ching](http://bits.ashleyblewer.com/i-ching/#x1101x) gets a save-state upgrade
+
 # Week 7 (May 21-25)
 
-[ TBD: Intentionally unstructured play ]
+
 
 # Week 8 (May 28 - June 1)
 
-[ TBD: Intentionally unstructured play ]
+
 
 # Week 9 (June 4-8)
 
-[ TBD: Intentionally unstructured play ]
+
 
 # Week 10 (June 11-15)
 
-[ TBD: Intentionally unstructured play ]
+
 
 # Week 11 (June 18-22)
 
-[ TBD: Intentionally unstructured play ]
+
 
 # Week 12 (June 25-28)
 
-[ TBD: Intentionally unstructured play ]
+
+
+
+
+
+
+
+
+
+
+
 
 # THE END!  
 
