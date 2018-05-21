@@ -482,10 +482,25 @@ oColor.z = dot(yuv, vec3(1.164,  2.018,  0.000));
 This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 ## Code written 
-- [I-Ching](http://bits.ashleyblewer.com/i-ching/#x1101x) gets a save-state upgrade
+- [I-Ching](http://bits.ashleyblewer.com/i-ching/#x1101x) gets a save-state upgrade and makeover
 
-# Week 7 (May 21-25)
+# Week 7 (May 21-25) (Reboot)
 
+## Code written 
+
+## Blogging 
+
+## Back 2 video 
+- [AV1 Bitstream & Decoding Process Specification](https://aomediacodec.github.io/av1-spec/av1-spec.pdf)
+
+## Manipulating video in the browser 
+- [webgazer.js](https://webgazer.cs.brown.edu/)
+- [canvasfilters](https://github.com/kig/canvasfilters)
+- [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
+
+
+## Misc 
+- [the cryptopals crypto challenges](https://cryptopals.com/)
 
 
 # Week 8 (May 28 - June 1)
