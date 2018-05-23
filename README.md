@@ -377,8 +377,8 @@ Goals at the start of this week:
 - "transrating" changing the bitrate of a file 
 
 ## Deep video 
-- [deepfakes/faceswap](https://github.com/deepfakes/faceswap)
-- [df](https://github.com/dfaker/df)
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap): ostensibly more trustworthy source code
+- [df](https://github.com/dfaker/df): for making corpus
 - [Exploring deepfakes](https://hackernoon.com/exploring-deepfakes-20c9947c22d9)
 - [The Era of Fake Video Begins](https://www.theatlantic.com/magazine/archive/2018/05/realitys-end/556877/)
 - [Tensorflow tutorials](https://www.tensorflow.org/tutorials/)
@@ -498,6 +498,8 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 - [canvasfilters](https://github.com/kig/canvasfilters)
 - [Manipulating video using canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 
+## Deepfakes again
+- [Family fun with deepfakes. Or how I got my wife onto the Tonight Show](https://towardsdatascience.com/family-fun-with-deepfakes-or-how-i-got-my-wife-onto-the-tonight-show-a4454775c011)
 
 ## Misc 
 - [the cryptopals crypto challenges](https://cryptopals.com/)
