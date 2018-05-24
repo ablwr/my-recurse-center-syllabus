@@ -501,8 +501,13 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 ## Deepfakes again
 - [Family fun with deepfakes. Or how I got my wife onto the Tonight Show](https://towardsdatascience.com/family-fun-with-deepfakes-or-how-i-got-my-wife-onto-the-tonight-show-a4454775c011)
 
+## MATH 
+- [Beautiful linear algebra videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
 ## Misc 
 - [the cryptopals crypto challenges](https://cryptopals.com/)
+- [ProofMode](https://blog.witness.org/2017/07/media-activists-witness-guardian-project-back/) adds encrypted chunk of data to media
+- [Is This For Real? How InformaCam Improves Verification of Mobile Media Files](https://blog.witness.org/2013/01/how-informacam-improves-verification-of-mobile-media-files/)
 
 
 # Week 8 (May 28 - June 1)
