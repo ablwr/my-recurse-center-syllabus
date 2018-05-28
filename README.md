@@ -487,8 +487,10 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 # Week 7 (May 21-25) (Reboot)
 
 ## Code written 
+- X 
 
 ## Blogging 
+- X 
 
 ## Back 2 video 
 - [AV1 Bitstream & Decoding Process Specification](https://aomediacodec.github.io/av1-spec/av1-spec.pdf)
@@ -522,11 +524,24 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 ## Encoding 
 - [rav1e - av1 encoder in rust](https://github.com/xiph/rav1e)
+- OBU = Open Bitstream Unit
+- [YUV4MPEG2 (.y4m) Encoder/Decoder Crate](https://crates.io/crates/y4m)
 
 ## Misc 
 - [DEF CON 25 - Svea Eckert, Andreas Dewes - Dark Data](https://www.youtube.com/watch?v=1nvYGi7-Lxo)
 - [DEF CON 25 - Matt Wixey - See no evil, hear no evil: Hacking invisibly & silently with light & sound](https://www.youtube.com/watch?v=gFTiD7EnVjU&list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC&index=65)
 
+
+YUV - RGB Conversion  
+```
+R = Y + 1.4075 * (V - 128)
+G = Y - 0.3455 * (U - 128) - (0.7169 * (V - 128))
+B = Y + 1.7790 * (U - 128)
+
+Y = R *  .299000 + G *  .587000 + B *  .114000
+U = R * -.168736 + G * -.331264 + B *  .500000 + 128
+V = R *  .500000 + G * -.418688 + B * -.081312 + 128
+```
 
 # Week 9 (June 4-8)
 
