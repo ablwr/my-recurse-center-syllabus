@@ -503,15 +503,29 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 ## MATH 
 - [Beautiful linear algebra videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Computer color is broken](https://www.youtube.com/watch?v=LKnqECcg6Gw)
 
 ## Misc 
 - [the cryptopals crypto challenges](https://cryptopals.com/)
 - [ProofMode](https://blog.witness.org/2017/07/media-activists-witness-guardian-project-back/) adds encrypted chunk of data to media
 - [Is This For Real? How InformaCam Improves Verification of Mobile Media Files](https://blog.witness.org/2013/01/how-informacam-improves-verification-of-mobile-media-files/)
+- tfw you get disheartened because you don't realize you're trying to solve an outstanding research problem
+- "Here, we introduce a framework in which we quantify these perceptual distortions in terms of “just intolerable differences” (JIDs)."
+- [violent-theremin](https://github.com/mdn/violent-theremin)
 
 
 # Week 8 (May 28 - June 1)
 
+## Code written
+
+## Blogging 
+
+## Encoding 
+- [rav1e - av1 encoder in rust](https://github.com/xiph/rav1e)
+
+## Misc 
+- [DEF CON 25 - Svea Eckert, Andreas Dewes - Dark Data](https://www.youtube.com/watch?v=1nvYGi7-Lxo)
+- [DEF CON 25 - Matt Wixey - See no evil, hear no evil: Hacking invisibly & silently with light & sound](https://www.youtube.com/watch?v=gFTiD7EnVjU&list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC&index=65)
 
 
 # Week 9 (June 4-8)
