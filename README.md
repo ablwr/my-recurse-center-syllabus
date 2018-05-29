@@ -519,8 +519,10 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 # Week 8 (May 28 - June 1)
 
 ## Code written
+- [more-blue](https://github.com/ablwr/more-blue): another very tiny codec
 
 ## Blogging 
+- [Weeks 7 and 8 at Recurse Center](https://bits.ashleyblewer.com/blog/2018/05/28/weeks-7-and-8-at-recurse-center/)
 
 ## Encoding 
 - [rav1e - av1 encoder in rust](https://github.com/xiph/rav1e)
@@ -530,6 +532,8 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 ## Misc 
 - [DEF CON 25 - Svea Eckert, Andreas Dewes - Dark Data](https://www.youtube.com/watch?v=1nvYGi7-Lxo)
 - [DEF CON 25 - Matt Wixey - See no evil, hear no evil: Hacking invisibly & silently with light & sound](https://www.youtube.com/watch?v=gFTiD7EnVjU&list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC&index=65)
+- [Tactical Tech Collective](https://tacticaltech.org/)
+- [Efficiency and Madness - Using Data and Technology to Solve Social, Environmental and Political Problems](https://www.boell.de/en/2017/11/28/efficiency-and-madness-using-data-and-technologyto-solve-social-environmental-and-political-problems)
 
 
 YUV - RGB Conversion  
