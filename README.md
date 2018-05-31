@@ -528,13 +528,20 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 - [rav1e - av1 encoder in rust](https://github.com/xiph/rav1e)
 - OBU = Open Bitstream Unit
 - [YUV4MPEG2 (.y4m) Encoder/Decoder Crate](https://crates.io/crates/y4m)
+- ["Category:Undiscovered Video Codecs"](https://wiki.multimedia.cx/index.php/Category:Undiscovered_Video_Codecs)
+- [S268M_Revised](http://www.simplesystems.org/users/bfriesen/dpx/S268M_Revised.pdf)
+- closed standards are immoral
+
+## Rust
+- [RustFest Paris 2018 video playlist](https://www.youtube.com/watch?v=23lRkdDXqY0&list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
 
 ## Misc 
 - [DEF CON 25 - Svea Eckert, Andreas Dewes - Dark Data](https://www.youtube.com/watch?v=1nvYGi7-Lxo)
 - [DEF CON 25 - Matt Wixey - See no evil, hear no evil: Hacking invisibly & silently with light & sound](https://www.youtube.com/watch?v=gFTiD7EnVjU&list=PL9fPq3eQfaaDOo8mTBHhEHMfuG2LNUSTC&index=65)
 - [Tactical Tech Collective](https://tacticaltech.org/)
 - [Efficiency and Madness - Using Data and Technology to Solve Social, Environmental and Political Problems](https://www.boell.de/en/2017/11/28/efficiency-and-madness-using-data-and-technologyto-solve-social-environmental-and-political-problems)
-
+- [Ray Tracer #1: What is a ray tracer?](https://www.youtube.com/watch?v=RIgc5J_ZGu8)
+- [conrod](https://github.com/PistonDevelopers/conrod): "An easy-to-use, 2D GUI library written entirely in Rust."
 
 YUV - RGB Conversion  
 ```
