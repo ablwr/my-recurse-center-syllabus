@@ -561,6 +561,9 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 ## Blogging 
 
+## Real Life Hour 
+- returning from [DC](https://upload.wikimedia.org/wikipedia/commons/2/26/The_Library_of_Congress%2C_Washington-LCCN2008678216.jpg), going to [Boston](https://twitter.com/BostonJoeSly/status/319604880044077056)
+
 
 # Week 10 (June 11-15)
 
