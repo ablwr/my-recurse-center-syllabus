@@ -534,6 +534,7 @@ This is when Never Graduate Week happens. SPRING BREAKKKKKKKK!
 
 ## Rust
 - [RustFest Paris 2018 video playlist](https://www.youtube.com/watch?v=23lRkdDXqY0&list=PL85XCvVPmGQgdqz9kz6qH3SI_hp7Zb4s1)
+- "[Redox](https://www.redox-os.org/) is a Unix-like Operating System written in Rust, aiming to bring the innovations of Rust to a modern microkernel and full set of applications."
 
 ## Misc 
 - [DEF CON 25 - Svea Eckert, Andreas Dewes - Dark Data](https://www.youtube.com/watch?v=1nvYGi7-Lxo)
@@ -556,27 +557,31 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 # Week 9 (June 4-8)
 
+## Code written
+
+## Blogging 
 
 
 # Week 10 (June 11-15)
+
+## Code written
+
+## Blogging 
 
 
 
 # Week 11 (June 18-22)
 
+## Code written
+
+## Blogging 
 
 
 # Week 12 (June 25-28)
 
+## Code written
 
-
-
-
-
-
-
-
-
+## Blogging 
 
 
 
