@@ -564,13 +564,14 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 ## Real Life Hour 
 - returning from [DC](https://upload.wikimedia.org/wikipedia/commons/2/26/The_Library_of_Congress%2C_Washington-LCCN2008678216.jpg), going to [Boston](https://twitter.com/BostonJoeSly/status/319604880044077056)
 
+## Misc 
+- [A Framework For Purposeful Open Source](https://medium.com/mozilla-open-innovation/whats-your-open-source-strategy-here-are-10-answers-383221b3f9d3)
 
 # Week 10 (June 11-15)
 
 ## Code written
 
 ## Blogging 
-
 
 
 # Week 11 (June 18-22)
