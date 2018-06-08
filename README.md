@@ -574,10 +574,13 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 - [Digital intermediate](https://en.wikipedia.org/wiki/Digital_intermediate)
 - [Sustainability of Digital Formats: Digital Moving-Picture Exchange (DPX), Version 2.0](https://www.loc.gov/preservation/digital/formats/fdd/fdd000178.shtml)
 - [Sustainability of Digital Formats: Digital Video Encoding (DV, DVCAM, DVCPRO)](https://www.loc.gov/preservation/digital/formats/fdd/fdd000183.shtml)
+- [Misinterpreting Mandelbrot](https://www.youtube.com/watch?v=_s7JsWeUSRo)
+- [Xiph.org test media](http://media.xiph.org/)
 
 ## Misc 
 - [A Framework For Purposeful Open Source](https://medium.com/mozilla-open-innovation/whats-your-open-source-strategy-here-are-10-answers-383221b3f9d3)
-
+- [Project Electron Update: Introducing Aurora 1.0](http://blog.rockarch.org/?p=1997)
+- [Bit Manipulation](https://www.hackerearth.com/practice/notes/bit-manipulation/)
 
 # Week 10 (June 11-15) 🎊🎂🆎
 
