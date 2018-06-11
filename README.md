@@ -588,6 +588,12 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 ## Blogging 
 
+## Misc 
+- [Localhost: Samantha Goldstein Crafting a Connected Home](https://www.recurse.com/events/localhost-samantha-goldstein)
+- [Critical .zip vulnerabilities?](https://www.youtube.com/watch?v=Ry_yb5Oipq0)
+- [edX Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2017/course/)
+- [The Land Before Binary](https://medium.com/@bellmar/the-land-before-binary-cc705d5bdd70)
+- [About Time: Sifting Through Analog Video Terminology](https://patchbay.tech/2018/06/11/about-time/)
 
 # Week 11 (June 18-22) ⿒
 
