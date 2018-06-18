@@ -584,9 +584,11 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 # Week 10 (June 11-15) 🎊🎂🆎
 
-## Code written
+## Video Pixel Formats
+- I feel like I should be thinking about pixel formats more. 
+- [Microsoft: Pixel Formats for Uncompressed Video](https://docs.microsoft.com/en-us/windows-hardware/drivers/display/pixel-formats-for-uncompressed-video)
+- [Apple: Core Video - Available Pixel Formats](https://developer.apple.com/library/archive/qa/qa1501/_index.html)
 
-## Blogging 
 
 ## Misc 
 - [Localhost: Samantha Goldstein Crafting a Connected Home](https://www.recurse.com/events/localhost-samantha-goldstein)
@@ -594,6 +596,7 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 - [edX Introduction to Linux](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x+1T2017/course/)
 - [The Land Before Binary](https://medium.com/@bellmar/the-land-before-binary-cc705d5bdd70)
 - [About Time: Sifting Through Analog Video Terminology](https://patchbay.tech/2018/06/11/about-time/)
+- feeling 😵😵😵
 
 # Week 11 (June 18-22) ⿒
 
