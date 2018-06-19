@@ -604,6 +604,13 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 ## Blogging 
 
+## Misc 
+- [returning to fish](https://fishshell.com/docs/current/index.html)
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [OIL OF EVERY PEARL'S UN-INSIDES](https://www.youtube.com/watch?v=AC8h4HnWyys)
+- [x86 assembly doesn’t have to be scary (interactive)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial)
+- [Overscripted! Digging into JavaScript execution at scale](https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/)
+- [Explainer on Sigfried, FIDO, and DROID matching differences](http://openpreservation.org/blog/2014/09/27/siegfried-pronom-based-file-format-identification-tool/)
 
 # Week 12 (June 25-28) 🙀
 
