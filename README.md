@@ -604,6 +604,11 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 ## Blogging 
 
+## Python 
+- getting my env un-fucked 
+- [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
+
+
 ## Misc 
 - [returning to fish](https://fishshell.com/docs/current/index.html)
 - [The Book of Shaders](https://thebookofshaders.com/)
@@ -611,6 +616,10 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 - [x86 assembly doesn’t have to be scary (interactive)](https://blog.benjojo.co.uk/post/interactive-x86-bootloader-tutorial)
 - [Overscripted! Digging into JavaScript execution at scale](https://hacks.mozilla.org/2018/06/overscripted-digging-into-javascript-execution-at-scale/)
 - [Explainer on Sigfried, FIDO, and DROID matching differences](http://openpreservation.org/blog/2014/09/27/siegfried-pronom-based-file-format-identification-tool/)
+- [Resurrecting the first Dutch web index: NL-menu revisited](http://openpreservation.org/blog/2018/04/24/resurrecting-the-first-dutch-web-index-nl-menu-revisited/)
+- [How I use Wireshark](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/)
+- [Princeton Web Transparency & Accountability Project](https://webtap.princeton.edu/)
+- [What's going on up the street?](https://motherboard.vice.com/en_us/article/xwmpm7/ways-your-city-is-surveilling-you-police-government-surveillance)
 
 # Week 12 (June 25-28) 🙀
 
