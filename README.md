@@ -600,13 +600,15 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 # Week 11 (June 18-22) ⿒
 
-## Code written
-
 ## Blogging 
+
+[Weeks 9, 10, 11 at Recurse Center](https://bits.ashleyblewer.com/blog/2018/06/23/weeks-9-10-11-at-recurse-center/)
 
 ## Python 
 - getting my env un-fucked 
 - [The key differences between Python 2.7.x and Python 3.x with examples](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
+- [conda](https://conda.io/docs/)
+- [pipenv](https://github.com/pypa/pipenv)
 
 
 ## Misc 
