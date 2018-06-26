@@ -625,13 +625,18 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 # Week 12 (June 25-28) 🙀
 
-## Code written
+## Python
+- [ipdb](https://pypi.org/project/ipdb/)
+- [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
 
-## Blogging 
+## Back on my bullshit
+- [OSSArcFlow](https://educopia.org/research/ossarcflow)
 
+## AV1
+- [AOM AV1 codec mapping in Matroska/WebM draft](https://github.com/Matroska-Org/matroska-specification/blob/av1-mappin/codec/av1.md)
+- [av1 1.0.0](https://aomedia.googlesource.com/aom/+/v1.0.0)
 
-
-# THE END!  
+# THE END! 🎉  
 
 There is no end! Never graduate!
 
