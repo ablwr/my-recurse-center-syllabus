@@ -631,10 +631,16 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 ## Back on my bullshit
 - [OSSArcFlow](https://educopia.org/research/ossarcflow)
+- "The Innovation Interest Group is no longer active."
 
 ## AV1
 - [AOM AV1 codec mapping in Matroska/WebM draft](https://github.com/Matroska-Org/matroska-specification/blob/av1-mappin/codec/av1.md)
 - [av1 1.0.0](https://aomedia.googlesource.com/aom/+/v1.0.0)
+
+
+## Misc 
+- bitsquatting, rowhammer, aes encryption
+- protocol analyzer tool, chip whisperer tool, shodan
 
 # THE END! 🎉  
 
