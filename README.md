@@ -637,6 +637,11 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 - [AOM AV1 codec mapping in Matroska/WebM draft](https://github.com/Matroska-Org/matroska-specification/blob/av1-mappin/codec/av1.md)
 - [av1 1.0.0](https://aomedia.googlesource.com/aom/+/v1.0.0)
 
+## scanlime video content 
+- [Little Glitchy CRT](https://www.youtube.com/watch?v=v3u74DmISpc)
+- [Little live teardown of NTSC test pattern Tek](https://www.youtube.com/watch?v=3rBf_p6mTtA)
+- [TSG95 Color Bar Generator Teardown](https://www.youtube.com/watch?v=gjlbBvNt404)
+- [Moving from Codec to Camera, Tandberg teardown continued](https://www.youtube.com/watch?v=gQ5gPJepTi0)
 
 ## Misc 
 - bitsquatting, rowhammer, aes encryption
