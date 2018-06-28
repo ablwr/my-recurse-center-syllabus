@@ -647,6 +647,9 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 - bitsquatting, rowhammer, aes encryption
 - protocol analyzer tool, chip whisperer tool, shodan
 - [Lotte World](https://en.wikipedia.org/wiki/Lotte_World)
+- haircuts!
+- ice cream!
+- feelings!
 
 # THE END! 🎉  
 
