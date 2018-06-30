@@ -632,6 +632,7 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 ## Back on my bullshit
 - [OSSArcFlow](https://educopia.org/research/ossarcflow)
 - "The Innovation Interest Group is no longer active."
+- [Genesis of a File Format](http://exponentialdecay.co.uk/blog/genesis-of-a-file-format/)
 
 ## AV1
 - [AOM AV1 codec mapping in Matroska/WebM draft](https://github.com/Matroska-Org/matroska-specification/blob/av1-mappin/codec/av1.md)
@@ -646,6 +647,7 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 ## Misc 
 - bitsquatting, rowhammer, aes encryption
 - protocol analyzer tool, chip whisperer tool, shodan
+- [Grokking Algorithms: An illustrated guide for programmers and other curious people](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=sr_1_2)
 - [Lotte World](https://en.wikipedia.org/wiki/Lotte_World)
 - haircuts!
 - ice cream!
@@ -653,7 +655,9 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 
 # THE END! 🎉  
 
-There is no end! Never graduate!
+There is no end! Never graduate!  
+
+Thanks for reading!
 
 # Mini-projects
 
