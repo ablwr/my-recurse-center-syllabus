@@ -658,25 +658,4 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 There is no end! Never graduate!  
 
 Thanks for reading!
-
-# Mini-projects
-
-Some ideas I have for small projects to work on!
-
-## Birthday planet map generator -- hey I did this!
  
-Generate an image that shows the state of the solar system at the time of someone's birth and text that explains how that aligns to someone's astrological sign (and moon sign, and rising sign). I think this mini-project will involve: Understanding the rules of astrology, some math about how fast planets move around the sun in relation to each other, ImageMagick to produce a proper image.
-
-## Significant contribution(s) to Audiorecorder
-
-[Audiorecorder](https://github.com/amiaopensource/audiorecorder) is a small, simple audio digitization command-line tool that has recently pushed up a new GUI made in Shoes (Ruby). It can use some help in making the application run a little bit better using this new framework.
-
-## Recreating computer/video art in CSS or Processing.js
-
-Learn how to better use Processing, new CSS features, or new HTML5 features by recreating early computer/video artworks. lillian schwartz, vera molnar, ken knowlton, john whitney, manfred mohr, dara birnbaum, paul sharits, hollis frampton, michael snow, nam june paik, stan vanderbeek are all potential artists to be inspired by and whose work I can attempt to replicate. I think this may involve some math.
-
-## Linter?
-
-Write a linter? A few starting links:
-https://stackoverflow.com/questions/70705/how-to-write-a-linter  
-https://github.com/mcandre/linters  
