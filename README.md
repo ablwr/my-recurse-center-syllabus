@@ -658,4 +658,27 @@ V = R *  .500000 + G * -.418688 + B * -.081312 + 128
 There is no end! Never graduate!  
 
 Thanks for reading!
- 
+
+~ ~ ~ 
+
+# NGW'19
+
+I did not take time off for this week, and I regretted it. I was able to spend some time in the space, see old friends, listen to lots of talks, participate in a few group discussions, including some deep dives into web archiving and digital preservation and video. 
+
+# NGW'20
+
+This year, I took the week off and couldn't wait to see all of my friends spread over the globe, but then a global pandemic happened and everything has shifted into being remote-only. I am still taking the week off, and intend to focus on researching and building.
+
+Like my time at RC, I will track some of my work here as a bit of a time capsule into what I explored during this time.
+
+My research focus is on virtual worlds, past and present. I want to be able to structure my thinking around this topic in a way that is deeper than my own memory. I have a few other ideas, including visualizing and searching a PDF database, more adventures in digital divination, and focusing on CSS and SVG animations.
+
+## Beginning of May
+
+Trying to make up for long time? I have started planning what to work on and look into.
+
+- [aura reader 2020](https://bits.ashleyblewer.com/aura-reader-2020)
+- Her Majesty URL [video](https://vimeo.com/413896649), [etherpad](https://pad.profolia.org/URL#)
+
+
+
