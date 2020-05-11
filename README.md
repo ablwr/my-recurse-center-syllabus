@@ -675,10 +675,34 @@ My research focus is on virtual worlds, past and present. I want to be able to s
 
 ## Beginning of May
 
-Trying to make up for long time? I have started planning what to work on and look into.
+Trying to make up for long time? I have started planning what to work on and look into, which have shifted slightly from the paragraph above this one.
 
+### Ideas
+- techno-divination (continuing theme of aura-reader, i-ching, barthes-tarot, et al)
+- visualization of archival material (have a collection of 3300 PDFs, how can I produce meaningful access?)
+- network-based performance artwork
+- exploring virtual worlds
+
+### Code written
 - [aura reader 2020](https://bits.ashleyblewer.com/aura-reader-2020)
+- [jams page](https://ashleyblewer.com/jams.html) for me to track audio inspiration while in quarantine
+- all the code and assets for a project that I have not yet checked into a git repo (rare for me!), more tbd. I usually don't hide things but this is something that is meant to be viewed in a specific way, and I don't usually do that, either.
+- OCR and thumbnail generation for a set of PDFs, data transformation, small sqlite proof of concept also not quite ready for primetime
+
+### Misc
 - Her Majesty URL [video](https://vimeo.com/413896649), [etherpad](https://pad.profolia.org/URL#)
 
+## 2020-05-11 Monday
 
+Here is where I will do a check-in of what I've done and what I plan to do yesterday and today. I think this is a useful way of keeping myself accountable even if it is similar to tactics deployed by power-hungry middle-managers seeking to control a workforce. 🙃
 
+### Goals
+- configure DNS for network-based art project
+- write artist statement
+- write intro-site to give context
+- reallife: last class sendoff / grade student work
+- remembering to stretch neck/shoulders
+
+### Misc
+- the work of my students!!! wonderful but not share-able, sorry
+- [emma rae norton - the mouse holds us](https://doodybrains.github.io/the-mouse-holds-us/)
