@@ -691,6 +691,10 @@ Trying to make up for long time? I have started planning what to work on and loo
 
 ### Misc
 - Her Majesty URL [video](https://vimeo.com/413896649), [etherpad](https://pad.profolia.org/URL#)
+- [!!con 2020](https://bangbangcon.com) - absolutely all of it, it was a fantastic conference!
+- [charli xcx demo ideas thread](https://twitter.com/FckyeahCharli/status/1248738826446610432)
+- [Teenage Superstars](https://www.raindance.org/the-filmmaker-sessions/), the documentary
+- [Spaceship Earth](https://neonrated.vhx.tv/checkout/screen-slate-presents-spaceship-earth/purchase), the documentary
 
 ## 2020-05-11 Monday
 
