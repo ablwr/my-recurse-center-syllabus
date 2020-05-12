@@ -700,13 +700,26 @@ Trying to make up for long time? I have started planning what to work on and loo
 
 Here is where I will do a check-in of what I've done and what I plan to do yesterday and today. I think this is a useful way of keeping myself accountable even if it is similar to tactics deployed by power-hungry middle-managers seeking to control a workforce. 🙃
 
-### Goals
+### Accomplishments
 - configure DNS for network-based art project
 - write artist statement
-- write intro-site to give context
-- reallife: last class sendoff / grade student work
+- reallife: [last class sendoff](https://github.com/ablwr/info654sp20/tree/master/syllabus)
 - remembering to stretch neck/shoulders
 
 ### Misc
+- State of RC
 - the work of my students!!! wonderful but not share-able, sorry
 - [emma rae norton - the mouse holds us](https://doodybrains.github.io/the-mouse-holds-us/)
+- [You shouldn’t need to be a web historian to use web archives, Ian Milligan U Waterloo](https://www.youtube.com/watch?v=Ki-QGu9AGiQ)
+- [Secrets of the Surface - official trailer](https://vimeo.com/380123288)
+- [LIMA ONLINE: Joan Heemskerk (JODI) in conversation with Heath Bunting, moderated by Florian Cramer](https://www.youtube.com/watch?v=bNHJCkR39Kk)
+
+## 2020-05-12 Tuesday
+
+Today I remembered that doing things right takes time. 
+
+### Accomplishments
+- still stretching
+- html/css up an intro-site to give context, refine artist statement, and...
+- [Throttled](https://ashleyblewer.com/throttled.html) is now live, sending it to testers before I can feel like it's really wrapped! Checking "network-based performance artwork" off the list -- I am really happy with this. It feels like there's not much to talk about technically, but maybe I will write a blog post about it since I did some diving into a few places I hadn't explored before.
+- reallife: time to grade student work!
