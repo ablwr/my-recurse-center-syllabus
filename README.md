@@ -716,10 +716,12 @@ Here is where I will do a check-in of what I've done and what I plan to do yeste
 
 ## 2020-05-12 Tuesday
 
-Today I remembered that doing things right takes time. 
+Today I remembered that doing things right takes time. Repetition and testing. Some things can't be rushed through. 
 
 ### Accomplishments
 - still stretching
 - html/css up an intro-site to give context, refine artist statement, and...
 - [Throttled](https://ashleyblewer.com/throttled.html) is now live, sending it to testers before I can feel like it's really wrapped! Checking "network-based performance artwork" off the list -- I am really happy with this. It feels like there's not much to talk about technically, but maybe I will write a blog post about it since I did some diving into a few places I hadn't explored before.
-- reallife: time to grade student work!
+- breaktime: watching nontechnical talks! 
+- reallife: time to give students meaningful feedback on their final projects! this took a lot of time and talking about it in detail is not appropriate for these notes
+- Finishing the ebook for Normal People before it gets auto-returned to the library in 24 hours
