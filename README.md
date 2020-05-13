@@ -722,6 +722,21 @@ Today I remembered that doing things right takes time. Repetition and testing. S
 - still stretching
 - html/css up an intro-site to give context, refine artist statement, and...
 - [Throttled](https://ashleyblewer.com/throttled.html) is now live, sending it to testers before I can feel like it's really wrapped! Checking "network-based performance artwork" off the list -- I am really happy with this. It feels like there's not much to talk about technically, but maybe I will write a blog post about it since I did some diving into a few places I hadn't explored before.
-- breaktime: watching nontechnical talks! 
 - reallife: time to give students meaningful feedback on their final projects! this took a lot of time and talking about it in detail is not appropriate for these notes
 - Finishing the ebook for Normal People before it gets auto-returned to the library in 24 hours
+
+### Misc
+- Checked out my [sibling in NGW note-taking!](https://github.com/saoirse-zee/rc-ngw-2020/blob/master/README.md)
+- [AMRO2020 program](https://www.radical-openness.org/en/program/2020)
+- breaktime: watching nontechnical talks! 
+- [VirtuaVerse](https://store.steampowered.com/app/1019310/VirtuaVerse/), I want to play this game?
+
+## 2020-05-13 Wednesday
+
+Lots of social/group learning events today! Excited for: web standards disucssion, weird internet spaces, apl, intersectional feminist scifi talk, caaaats. 
+
+I am trying to switch gears and into the meaningful archival access project, but still hanging on to finishing up Throttled with regards to blog-post writing and formalizing notes so I don't forget in the future.
+
+### Accomplishments
+- Took a break to [remove some jQuery](https://github.com/amiaopensource/ffmprovisr/pull/425)
+- I have stretched
