@@ -665,7 +665,7 @@ Thanks for reading!
 
 I did not take time off for this week, and I regretted it. I was able to spend some time in the space, see old friends, listen to lots of talks, participate in a few group discussions, including some deep dives into web archiving and digital preservation and video. 
 
-# NGW'20
+# NGW'20 / two years later! What will I build?
 
 This year, I took the week off and couldn't wait to see all of my friends spread over the globe, but then a global pandemic happened and everything has shifted into being remote-only. I am still taking the week off, and intend to focus on researching and building.
 
@@ -739,4 +739,14 @@ I am trying to switch gears and into the meaningful archival access project, but
 
 ### Accomplishments
 - Took a break to [remove some jQuery](https://github.com/amiaopensource/ffmprovisr/pull/425)
-- I have stretched
+- I have stretched, and I [am buying an expensive pillow highly recommended by a fellow RC'er](https://www.ecosa.com/pillow) to enforce good posture even when sleeping
+- [Blog post](https://bits.ashleyblewer.com/blog/2020/05/13/throttled-a-few-things-i-learned-making-this-network-based-performance/) for holding Throttled notes. Maybe I'll give a talk about this on Friday?
+- reallife: its grant-review season
+
+### Misc
+- [Curating Online Exhibitions Pt 1](https://rhizome.org/editorial/2020/may/13/curating-online-exhibitions-pt-1/)
+- a bit more [likelike gallery touring](https://omoma.glitch.me/)
+
+## 2020-05-14 Thursday
+
+Yesterday was the halfway point, and I haven't gotten back into the archival access project, but hope to make a lot of progress on it today -- now that is my sole focus, now that the other project is out of my brain and in the world. This morning, I am going to start with writing what I've already done with the assumption that that will lead me to where I need to go in a way that feels more inviting than my todo list.
