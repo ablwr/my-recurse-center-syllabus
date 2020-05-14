@@ -750,3 +750,9 @@ I am trying to switch gears and into the meaningful archival access project, but
 ## 2020-05-14 Thursday
 
 Yesterday was the halfway point, and I haven't gotten back into the archival access project, but hope to make a lot of progress on it today -- now that is my sole focus, now that the other project is out of my brain and in the world. This morning, I am going to start with writing what I've already done with the assumption that that will lead me to where I need to go in a way that feels more inviting than my todo list.
+
+### Accomplishments
+- tbd.....................................................................................
+
+### Misc
+- I just keep [opening this](https://webassembly.org/docs/c-and-c++/) and eventually closing it 🤦
