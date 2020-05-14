@@ -755,4 +755,6 @@ Yesterday was the halfway point, and I haven't gotten back into the archival acc
 - tbd.....................................................................................
 
 ### Misc
+- it is still grant-review season
 - I just keep [opening this](https://webassembly.org/docs/c-and-c++/) and eventually closing it 🤦
+- ["The museum does not exist"](https://www.ssense.com/en-us/editorial/culture/the-museum-does-not-exist)
