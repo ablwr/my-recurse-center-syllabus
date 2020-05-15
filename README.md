@@ -752,9 +752,16 @@ I am trying to switch gears and into the meaningful archival access project, but
 Yesterday was the halfway point, and I haven't gotten back into the archival access project, but hope to make a lot of progress on it today -- now that is my sole focus, now that the other project is out of my brain and in the world. This morning, I am going to start with writing what I've already done with the assumption that that will lead me to where I need to go in a way that feels more inviting than my todo list.
 
 ### Accomplishments
-- tbd.....................................................................................
+- Made a lot of progress on a forthcoming blog post about this week's project
 
 ### Misc
-- it is still grant-review season
+- reallife: it is still grant-review season, deadline imminent
+- reallife: signed a contract for a small but impactful project :)
 - I just keep [opening this](https://webassembly.org/docs/c-and-c++/) and eventually closing it 🤦
 - ["The museum does not exist"](https://www.ssense.com/en-us/editorial/culture/the-museum-does-not-exist)
+- Trader Joe's Organic Tusi Holy Basil Herbal Tea ☕
+- Browsing [Open source, experimental, and tiny tools roundup](https://everest-pipkin.com/teaching/tools.html) and wishing I had more time!
+- a friend and new coworker wrote something personal and I read it and cried because I'm so happy for her. 😭💖
+- 04. Charli XCX - 7 years.mp3
+- [This](https://stackoverflow.com/questions/7042340/error-cant-set-headers-after-they-are-sent-to-the-client) is a very thorough StackOverflow answer listing out Node/Express response methods, something I didn't easily find elsewhere.
+
