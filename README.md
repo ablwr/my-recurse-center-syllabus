@@ -765,3 +765,16 @@ Yesterday was the halfway point, and I haven't gotten back into the archival acc
 - 04. Charli XCX - 7 years.mp3
 - [This](https://stackoverflow.com/questions/7042340/error-cant-set-headers-after-they-are-sent-to-the-client) is a very thorough StackOverflow answer listing out Node/Express response methods, something I didn't easily find elsewhere.
 
+## 2020-05-15  Friday
+
+Last day :(
+
+### Accomplishments
+- lightning talk on Throttled
+- lightning talk on the Vasulka archive project
+- [blog post](https://bits.ashleyblewer.com/blog/2020/05/14/notes-on-exploring-the-vasulka-pdf-archive/) with notes about the Vasulka exploratory project. I want to spent two more days on this and then wrap it up completely, since I didn't get to spent the full week focused on it -- really only just a couple of days.
+
+### Misc
+- lots and lots of presentations
+- [AI in the library, round one](https://andromedayelton.com/2020/05/15/ai-in-the-library-round-one/)
+- [!!con recap post](https://thewebivore.com/con-2020-virtualbangbangcon/)
