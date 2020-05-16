@@ -765,7 +765,7 @@ Yesterday was the halfway point, and I haven't gotten back into the archival acc
 - 04. Charli XCX - 7 years.mp3
 - [This](https://stackoverflow.com/questions/7042340/error-cant-set-headers-after-they-are-sent-to-the-client) is a very thorough StackOverflow answer listing out Node/Express response methods, something I didn't easily find elsewhere.
 
-## 2020-05-15  Friday
+## 2020-05-15 Friday
 
 Last day :(
 
@@ -778,3 +778,12 @@ Last day :(
 - lots and lots of presentations
 - [AI in the library, round one](https://andromedayelton.com/2020/05/15/ai-in-the-library-round-one/)
 - [!!con recap post](https://thewebivore.com/con-2020-virtualbangbangcon/)
+- [Artbase re-design](https://sites.rhizome.org/artbase-re-design/)
+- [Unscroll: An Approach to Making New Things from Old Things](https://www.youtube.com/watch?v=BykYu4qA-bQ)
+
+## 2020-05-16 Saturday
+
+And that's a wrap! There's more I want to do, but I have to start acclimating back into reallife obligations.
+
+NGW is such a refreshing burnout-prevention supplement. It's not the cure, but it helps get you there.
+
