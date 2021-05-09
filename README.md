@@ -787,3 +787,27 @@ And that's a wrap! There's more I want to do, but I have to start acclimating ba
 
 NGW is such a refreshing burnout-prevention supplement. It's not the cure, but it helps get you there.
 
+~ ~ ~ 
+
+# NGW'21
+**THREEEE years later! What will I maintain?**
+
+Year three of Never Graduate Week and I'm focusing on not not shipping anything, doing maintenance work on existing things, and learning/practicing old skills.
+
+A short list of things:
+- Make color change consistent on the [I Ching](https://bits.ashleyblewer.com/i-ching/) (this is like a 5min fix, why do I procrastinate on it so much?)
+- make and apply custom "sleeping" or "powered down" screens to my [reMarkable2](https://remarkable.com/store/remarkable-2)
+- clean up old laptop
+- set up new laptop
+- thinking about trying a new Linux distro, which means I need to think about Linux distros
+- so many code editor things annoy me and I just put up with it, I'd like to be more intentional about this arrangement
+- improve thinking and structure on a long-form writing project
+- some sort of [Exercism](https://exercism.io/) practice
+- I got firefox tabs for days
+
+# 2021-05-09 Sunday
+
+- Made sure my equipment id set up and working for tomorrow's e-ink display workshop
+- watered plants, planted some new seeds, repotted plants
+- bought a new personal computer (a long-coveted Dell XPS 13"), feels good
+
