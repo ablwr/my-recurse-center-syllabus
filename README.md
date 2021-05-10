@@ -811,3 +811,60 @@ A short list of things:
 - watered plants, planted some new seeds, repotted plants
 - bought a new personal computer (a long-coveted Dell XPS 13"), feels good
 
+# 2021-05-10 Monday
+
+Something I have a really hard time learning is how to chill out and take a break, which has been very detrimental to my health. I'm trying to focus on that this week -- body/brain maintenance is part of the maintenance stack, after all.
+
+### Accomplishments
+- Signed up as a patreon for the [Tech Won't Save Us](https://www.patreon.com/techwontsaveus) podcast.
+- gave myself a manicure with stick-on nail decals
+- made three healthy little salads
+
+## E-ink
+- attended a very cool [e-ink workshop](https://github.com/m-clare/NGW_E_Ink_Workshop)
+  - also needed to `apt-get update` and install pip3
+  - `sudo apt-get install libopenjp2-7 libtiff5 libatlas-base-dev`
+  - Enabling SPI via `sudo raspi-config` (here's a [how-to](https://www.raspberrypi-spy.co.uk/2014/08/enabling-the-spi-interface-on-the-raspberry-pi/))
+  - this later broke, and I need to figure out why it doesn't think there are any more events today when there are
+  - I also want to add images
+  - Also the time is UTC and showing it in MYYY time would be good
+
+## Memex Tech Demos
+These are just loose notes
+- Context: ["As We May Think"](https://en.wikipedia.org/wiki/As_We_May_Think)
+
+  - People working with/in memex technology
+  - "An ideal, not realizable" / people present wishes/fantasies onto this device / everyone implementing it gives a personal approach to the problem
+  - First up, Andrew
+	  - I know Andrew has a talk on a similar subject, [!!Con 2018: Talking to my past self (without introducing temporal paradoxes!) ](https://www.youtube.com/watch?v=FnFYs5BdI0E)
+    - data importers, interface like "verb:travelled near:bondi beach duration:>10"
+  	- Typical ETL structure, APIs/scrapers template as Extraction, transform, load into JSON API
+  	- everything organized as a graph, use that to travel through different parts of the system.
+  	- another example: "provider:goodreads, involved:(abouts:(climate))"
+  	- like the memex, it shows relationships, when read, other related things, etc
+  	- interesting question about consent to geotag and name people, and whether this qualifies as like a journal
+  	- Roam Research
+  	- thinking the original idea of the memex was more about this kind of thing (personal journal type analogy) rather than archiving stuff
+  	- it's like 100s of GBs, designed to run local but happens to run on DigitalOcean
+  	- writing about this is on [this blog post](https://hyfen.net/memex/)
+  - Next up is Joe
+  	- frictionless micrologging lil script
+  - Next up is Nick
+    - [ArchiveBox](https://archivebox.io/) demo (I'm already familiar so I didn't take detailed notes sorry!)
+    - canonicalization layer
+    - can pull from bookmarks, all the bookmarking systems, etc
+    - working on this project helps ensure archive-ability for himself and others/clients/projects/etc
+   - Next up is Shae
+     - working on tracking papers, their DOI, authors, etc
+     - code is here: [https://github.com/shapr/fermatslastmargin](https://github.com/shapr/fermatslastmargin)
+
+## Elementary OS
+Thinking of going with this OS when I get my new personal computer (ETA: Friday)
+
+- [Human Interface Guidelines](https://docs.elementary.io/hig/)
+- [Changing power settings in Elementary OS](https://www.ryanprior.com/posts/changing-power-settings-in-elementary-os/)
+
+
+
+
+
