@@ -828,6 +828,7 @@ Something I have a really hard time learning is how to chill out and take a brea
   - this later broke, and I need to figure out why it doesn't think there are any more events today when there are
   - I also want to add images
   - Also the time is UTC and showing it in MYYY time would be good
+  - [Here](https://twitter.com/ablwr/status/1392128547565850625) is what it looks like
 
 ## Memex Tech Demos
 These are just loose notes
@@ -866,6 +867,27 @@ Thinking of going with this OS when I get my new personal computer (ETA: Friday!
 
 ## Misc
 - Reminder about this channel: https://www.youtube.com/user/eaterbc
+- [Building a raspi OS from scratch](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 
 # 2021-05-11 Tuesday
 - The [I Ching](https://bits.ashleyblewer.com/i-ching/)'s background should be smooth, This has bothered me for so long, yet it was like a 5-minute fix!
+
+## Listening -- Building collaborative virtual spaces discussion
+  - a bit more on [RC Together](https://www.rctogether.com/)
+  - [GatherTown](https://gather.town/)
+  - [Workadventure](https://workadventu.re/)
+  - omg [this app](https://mashable.com/article/color-chat-messaging-app/) where you communicate only in rectangles!
+  - IBM paper about using SecondLife after the financial crisis
+
+
+## Listening -- Cyberspace Show and Tell 
+  - LIKELIKE Gallery (easy to fork) -- love this one
+  - Workadventure -- so cute and cool, works really well!
+  - visiting ascii town - managed to sign the guestbook
+  - sprout.place !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  - walky.space 
+
+## Streaming MEDIA / WebRTC
+- https://webrtcforthecurious.com/
+- https://webrtchacks.com/webassembly-experiments/
+- https://github.com/pion
