@@ -859,12 +859,12 @@ These are just loose notes
      - code is here: [https://github.com/shapr/fermatslastmargin](https://github.com/shapr/fermatslastmargin)
 
 ## Elementary OS
-Thinking of going with this OS when I get my new personal computer (ETA: Friday)
+Thinking of going with this OS when I get my new personal computer (ETA: Friday!!!)
 
 - [Human Interface Guidelines](https://docs.elementary.io/hig/)
 - [Changing power settings in Elementary OS](https://www.ryanprior.com/posts/changing-power-settings-in-elementary-os/)
 
-
-
+## Misc
+- Reminder about this channel: https://www.youtube.com/user/eaterbc
 
 
