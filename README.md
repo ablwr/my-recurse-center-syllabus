@@ -867,4 +867,5 @@ Thinking of going with this OS when I get my new personal computer (ETA: Friday!
 ## Misc
 - Reminder about this channel: https://www.youtube.com/user/eaterbc
 
-
+# 2021-05-11 Tuesday
+- The [I Ching](https://bits.ashleyblewer.com/i-ching/)'s background should be smooth, This has bothered me for so long, yet it was like a 5-minute fix!
