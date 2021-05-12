@@ -868,19 +868,20 @@ Thinking of going with this OS when I get my new personal computer (ETA: Friday!
 ## Misc
 - Reminder about this channel: https://www.youtube.com/user/eaterbc
 - [Building a raspi OS from scratch](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
+- Finished [Fake Accounts](https://www.penguinrandomhouse.com/books/667731/fake-accounts-by-lauren-oyler/) by Lauren Oyler
 
 # 2021-05-11 Tuesday
 - The [I Ching](https://bits.ashleyblewer.com/i-ching/)'s background should be smooth, This has bothered me for so long, yet it was like a 5-minute fix!
 
-## Listening -- Building collaborative virtual spaces discussion
+## Building collaborative virtual spaces discussion
   - a bit more on [RC Together](https://www.rctogether.com/)
   - [GatherTown](https://gather.town/)
   - [Workadventure](https://workadventu.re/)
   - omg [this app](https://mashable.com/article/color-chat-messaging-app/) where you communicate only in rectangles!
-  - IBM paper about using SecondLife after the financial crisis
+  - IBM paper about using SecondLife after the financial crisis -- [Synchronous Interaction Among Hundreds: An Evaluation of a Conference in an Avatar-based Virtual Environment](https://www.researchgate.net/publication/221515759_Synchronous_interaction_among_hundreds_An_evaluation_of_a_conference_in_an_avatar-based_virtual_environment)
 
 
-## Listening -- Cyberspace Show and Tell 
+## Cyberspace Show and Tell 
   - LIKELIKE Gallery (easy to fork) -- love this one
   - Workadventure -- so cute and cool, works really well!
   - visiting ascii town - managed to sign the guestbook
@@ -891,3 +892,7 @@ Thinking of going with this OS when I get my new personal computer (ETA: Friday!
 - https://webrtcforthecurious.com/
 - https://webrtchacks.com/webassembly-experiments/
 - https://github.com/pion
+
+## Internet Girlfriend Club
+- [Volume 10](https://internetgirlfriend.club/volume10/0.html) is here!!! It's been "ready" for a while (as in, I had enough entries to build a new zine) but hadn't had the time and mental space to put it together. YAY!!
+
