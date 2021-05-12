@@ -896,3 +896,80 @@ Thinking of going with this OS when I get my new personal computer (ETA: Friday!
 ## Internet Girlfriend Club
 - [Volume 10](https://internetgirlfriend.club/volume10/0.html) is here!!! It's been "ready" for a while (as in, I had enough entries to build a new zine) but hadn't had the time and mental space to put it together. YAY!!
 
+# 2021-05-12 Wednesday
+
+Morning
+- ate a cookie and a lavender latte because I am on vacation
+
+## Programming in other languages
+- Edith gives a talk about translating the official python documentation into French
+  - organized a translation sprint
+  - "great way to do dev tools onboard - you will be using git, but not in prod"
+  - "you will learn about the language you are translating into, even if its your native language"
+  - "(espaces insecables = non-breaking spaces in english)"
+
+I asked about funding, because I want the A/VAA to be translated but I want to pay people to do it. This work was pro-bono though, but this is Edith's career also.
+
+I also asked about the variations of a language, like that there are many different types of official Spanish. This context is French, so there's a specific official French to look towards, but caveats to that are that everything is default-masculine, and there are other situational problems.
+
+Another question is about when to translate technical terms like "commit" or "branch". This seems to be project-based, so like many things, it depends.
+
+Janice laments that American English always dominates, like in CSS: `color: black` instead of `colour: black`
+
+- Talk from Paul on [Dark](https://darklang.com/) and supporting multiple languages here
+- using multi-language for search even if the actual variable names are in English
+
+"some of the biggest challenges aren't technical, they are cultural"
+
+- Daniel talking about a few languages written in other languages
+  - Ramsey Nasser: قلب -- https://nas.sr/%D9%82%D9%84%D8%A8/
+  - Yorlang, Yoruba programming language -- https://anoniscoding.github.io/yorlang/
+  - Jon Corbett, Cree#, PhD project -- https://esoteric.codes/blog/jon-corbett
+  - [Cree language](https://en.wikipedia.org/wiki/Cree_language)
+  - "instead of if/then, a stream splitting into two different channels"
+  - speak to the interpreter, a raven character. storytelling language.
+  - "not just keywords but cultural logic into the language as well"
+
+## Memex Challenges
+
+- "most things decay in the order of magnitude of a decade"
+- interchange formats are key
+- markdown is great
+- not wanting to be locked into a company ecosystem, and able to bring/use your own tools
+- how do I structure a trial period for moving to a new system?
+- coaching people to use memex technology
+- hierarchies, flat lists, different things work for different people. how long do you try out not just a software, but the rituals around notetaking?
+- FUSE bridge, org-mode, tagging
+- panic driven development
+- user-defined tag relationships
+- k-means clustering tags
+- ontology - defining tag synonyms - programming and software and computer engineering 
+- different definitions of ontology flying around lolol
+- sorting/filtering
+- your brain is very good at filtering and bubble up things you're looking for with context
+- archive folder, move things into there
+- memex failure: facebook in general
+- collecting for the sake of collecting
+- what is the goal of the memex?
+	- increasing surface area
+	- ability to share with others
+- [Arc](https://apps.apple.com/ca/app/arc-app-location-activity/id1063151918 ) (app location activity tracking, offline only, private, secure, etc)
+- "how to take smart notes"
+- [tarsnap](https://www.tarsnap.com/)
+
+It's so interesting to bounce from the "programming in different languages" directly into a call with a small archives that is looking for some help/guidance and then right into the Memex discussion. Being right in the middle of archives world and tech world, I have so many thoughts/feelings about this but not sure how to articulate them well, so I am not going to! I think my primary thoughts are around how the LIS/archives field are based around community knowledge, instutitional knowledge (and the conflation that an instution's knowledge is the same thing as community/culture, because I'm not trying to paint this as all positive) and the memex conversations here are all about personal knowledge systems, boutique and unique-to-you work (not fully, but the general purpose for convening is a celebration of the different ways people work towards the same general goal).
+
+# Misc
+- [Researching the Leadership Gap for Legacy Projects: Sumana Harihareswara](https://www.youtube.com/watch?v=RV19i8nXkTM)  
+- lack of pipeline to recruit and grow contributors with leadership and management skills
+- [Dave Rice at V International Seminar on Digital Preservation](https://www.youtube.com/watch?v=JhDgoBn7bQk)  
+- [Neta Bomani - Dark Matter](http://netabomani.com/darkmatter/)
+- [Video Compression Basics](https://rastergrid.com/blog/multimedia/2021/05/video-compression-basics/)
+- [The Forgotten History of Home Video](https://www.youtube.com/watch?v=30Uc-JxJzYI)
+
+
+
+
+
+
+
