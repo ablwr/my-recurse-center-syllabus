@@ -968,8 +968,20 @@ It's so interesting to bounce from the "programming in different languages" dire
 - [The Forgotten History of Home Video](https://www.youtube.com/watch?v=30Uc-JxJzYI)
 
 
+Got a tip
+- https://worldradiohistory.com/
 
+# 2021-05-13 Thursday
 
+## Morning
+- Making coffee and reading [How the Personal Computer Broke the Human Body](https://www.vice.com/en/article/y3dda7/how-the-personal-computer-broke-the-human-body)
+- Searching for suitable flash drives, which are scattered all over the house
+- Making a Linux bootloader
+- Began working through [Exercism](https://exercism.io/)'s TypeScript track
 
+## Midday
+- [MenderConf 2021](https://mendercon.com/schedule/) -- watched the afternoon talks
 
+## World Radio History
+Can I build on last year's Vasulka work to make this easy to search, retrieve, discover?
 
