@@ -1006,5 +1006,11 @@ Can I build on last year's Vasulka work to make this easy to search, retrieve, d
 - End of NGW party!
 	- I made a rhubarb cake which I kept calling a pie, but was obviously not a pie. It involved making meringue which I haven't done since I was a kid, and I somehow managed to do it while keeping up with the conversations in the RC "Kitchen" room. Also if I had read the instructions before I started, I don't know if I would have had gone through with it, but it was too late by the time I got to the "separate the eggs and whip each in separate bowls" bit.
 
+Overall, this year I went to a LOT of events (and there were so many to attend!), and didn't try to focus on doing much else, which worked really well! I wasn't able to get to work setting up a new personal computer because it hadn't arrived in time, but I did manage to think/learn/discover a lot of things and fix a few tiny things that had been annoying me for a long time. Also, I read two whole books that had nothing to do with programming.
+
+Given that the entire world is burnt out and I am no exception to that, this was a great way to spend a week.
+
 I spent the next two days not opening my computer at all! Until next year!
+
+~ ~ ~ 
 
