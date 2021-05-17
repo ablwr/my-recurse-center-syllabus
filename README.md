@@ -985,3 +985,26 @@ Got a tip
 ## World Radio History
 Can I build on last year's Vasulka work to make this easy to search, retrieve, discover?
 
+# 2021-05-14 Friday
+
+## Morning/Lunch/Afternoon/Evening
+- Finally finished [Detransition, Baby](https://www.penguinrandomhouse.com/books/621886/detransition-baby-by-torrey-peters/) last night!
+- Taking care of something I can't talk about yet
+- My [Halt and Catch Fire Syllabus](https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/) had some CSS that was failing to render properly in Chrome, and people seemed to really like it and think it was the intended aesthetic, which is cool, but I fixed it so that it looks the same in Chrome and Firefox.
+- [A New Session](https://anewsession.com/), a telnet-based zine, is out now!!!!! I spent the lunchtime reading it.
+- Looks cool: [Future of the Browser Unconference](https://futureofthebrowser.web.app/)
+- watched some presentations that fried my brain
+- I've been waiting to read this piece about [Andrew W.K.](https://www.stereogum.com/2015589/andrew-wk-steev-mike/columns/sounding-board/) for so many years
+- started [this book](https://www.newline.co/fullstack-react-with-typescript) about React/TypeScript
+- Listening: [Another Morning, Another Pillows](https://www.youtube.com/watch?v=a3eCVTbixrQ)
+- more presentations!
+  - visidata.org
+  - IoT hacking smart devices
+  - activating plushies with ML so kids can design their own toy gestures
+  - [Brownian Motion](https://en.wikipedia.org/wiki/Brownian_motion)
+  - Rachel's work/art: https://www.joyofrandomness.com/
+- End of NGW party!
+	- I made a rhubarb cake which I kept calling a pie, but was obviously not a pie. It involved making meringue which I haven't done since I was a kid, and I somehow managed to do it while keeping up with the conversations in the RC "Kitchen" room. Also if I had read the instructions before I started, I don't know if I would have had gone through with it, but it was too late by the time I got to the "separate the eggs and whip each in separate bowls" bit.
+
+I spent the next two days not opening my computer at all! Until next year!
+
