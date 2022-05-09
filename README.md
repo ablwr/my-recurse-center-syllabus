@@ -1016,13 +1016,15 @@ I spent the next two days not opening my computer at all! Until next year!
 
 # NGW'22 !!!
 
+I think I'll be using this week to get a bunch of things that have been rattling around in my head OUT of my head. I like treating this week as a mini RC retreat, where I can give myself that extra permissions to think and explore and grow, completely unconstrained. 
+
 Had plans to visit NYC and see friends, but cases are rising and I'm tired and Rory and I decided to stay home in Philly.
 
 I have a LOT of things I want to work on, and not enough time for all of them!
 
 - Pair with Rory on multi-platform music player
 - Finish [aura-reader-for-two](https://github.com/ablwr/aura-reader-for-two), write about it
-- I'm accidentally [making a book](https://twitter.com/ablwr/status/1514651214167826440) so I have a lot of goals around that 
+- I'm accidentally [making a book](https://twitter.com/ablwr/status/1514651214167826440) so I have a lot of goals around that, although I don't know if I'll necessarily be addressing them this week
 - library reference room demo idea
 - I wrote something down that says "VLC blog" and I have NO idea what that means? I'm not even sure the word is VLC? VCC?
 - Finish co-authored blog post about Archive81
