@@ -1014,3 +1014,24 @@ I spent the next two days not opening my computer at all! Until next year!
 
 ~ ~ ~ 
 
+# NGW'22 !!!
+
+Had plans to visit NYC and see friends, but cases are rising and I'm tired and Rory and I decided to stay home in Philly.
+
+I have a LOT of things I want to work on, and not enough time for all of them!
+
+- Pair with Rory on multi-platform music player
+- Finish [aura-reader-for-two](https://github.com/ablwr/aura-reader-for-two), write about it
+- I'm accidentally [making a book](https://twitter.com/ablwr/status/1514651214167826440) so I have a lot of goals around that 
+- library reference room demo idea
+- I wrote something down that says "VLC blog" and I have NO idea what that means? I'm not even sure the word is VLC? VCC?
+- Finish co-authored blog post about Archive81
+- Paint bedroom walls; finish painting back patio
+- something something gstreamer...
+
+## 7-8 May (Sat/Sun)
+Read (future tense and then past tense):
+- [Glitch Feminism](https://www.penguinrandomhouse.com/books/646946/glitch-feminism-by-legacy-russell/), Legacy Russell
+- [People I've Met From the Internet](https://www.spdbooks.org/Products/9781938900259/people-ive-met-from-the-internet.aspx), Stephen Van Dyck
+
+## 9 May (Mon)
