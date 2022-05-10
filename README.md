@@ -1037,3 +1037,21 @@ Read (future tense and then past tense):
 - [People I've Met From the Internet](https://www.spdbooks.org/Products/9781938900259/people-ive-met-from-the-internet.aspx), Stephen Van Dyck
 
 ## 9 May (Mon)
+
+### Waking up
+
+- [This tweet I made last night](https://twitter.com/ablwr/status/1523471448219602944) on what format you would pick to do longish-form writing on has me introspecting a lot more than I thought!
+- [Kendrick Lamar - The Heart Part 5](https://www.youtube.com/watch?v=uAPUkgeiFVY)
+- almond flour chocolate chip pancakes for breakfast
+- [Five Koans of Software Architecture](https://bellmar.medium.com/five-koans-of-software-architecture-f9f7305598c2), Marianne Bellotti
+
+### Afternoon
+- New blog post: [I accidentally started making a book](https://bits.ashleyblewer.com/blog/2022/05/09/accidentally-making-a-book-video-format-illustrations/)
+- briefly listen to a talk about Plan 9
+- starting to read these [placement diaries](https://rozinaaamir.com/placement.html)
+- [BandcampFS](https://medium.com/@__Tux/using-bandcamp-as-a-backup-solution-3b6549d24579) ???
+- catch up with Julia & talk about printing opts
+- TODO: catch up with Jean
+- see Hannah I R L
+- "small art talks" session, yay!!
+- drafting some future blog posts to get book-related things out of my brain
