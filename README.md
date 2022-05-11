@@ -1051,7 +1051,35 @@ Read (future tense and then past tense):
 - starting to read these [placement diaries](https://rozinaaamir.com/placement.html)
 - [BandcampFS](https://medium.com/@__Tux/using-bandcamp-as-a-backup-solution-3b6549d24579) ???
 - catch up with Julia & talk about printing opts
-- TODO: catch up with Jean
 - see Hannah I R L
 - "small art talks" session, yay!!
 - drafting some future blog posts to get book-related things out of my brain
+- get some upcoming workshop pre-work out of my brain
+  
+## 10 May (Tue)
+
+### Waking up
+- [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach](https://www.youtube.com/watch?v=0me3guauqOU)
+- [Sea Change: Google and Meta’s new subsea cables mark a tectonic shift in how the internet works, and who controls it](https://restofworld.org/2022/google-meta-underwater-cables/)
+
+### Afternoon
+- Pitching MPOW ([Daily, an video call API/infra platform](https://daily.co/jobs)) at the RC company presentations!
+- finished Glitch Feminism
+- enjoying perfect outdoor temperature
+- doing a very tedious clean-up of SVGs related to this book project, accomplished my tidy-up goals
+
+## 11 May (Wed)
+
+### Waking up
+- Reading about [Tama's successors](https://en.wikipedia.org/wiki/Tama_(cat))
+- doing some comms. I don't know if it's a result of the pandemic or just growing older-wiser or years of consulting work, but I need to acknowledge and write down that doing things like email and other communication work, community work, setting-things-up work is more time-consuming than I think it's gonna be and it's worth noting that it's WORRRRRRRRRRK. Anyway, doing some of that in the form of asking for favors today.
+- Enjoying a lot of slow mornings, drinking a decaf americano with too much half-n-half on my back patio, a whiplash-strong contrast to my usually NGW sprints
+- [Cartrivision](https://en.wikipedia.org/wiki/Cartrivision)
+- [V-Cord](https://obsoletemedia.org/v-cord/)
+
+
+### Afternoon
+- still doubling down on book-related things -- I feel this urgency to get this to a state where I can move into the next phase, and that makes me want to hurry my way through it!
+- catchup with Sam cancelled due to Covid :(
+- catch up with Jean
+- working on a user story, believe it or not, for a non-work project I'm on
