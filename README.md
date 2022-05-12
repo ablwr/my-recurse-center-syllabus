@@ -1083,3 +1083,7 @@ Read (future tense and then past tense):
 - catchup with Sam cancelled due to Covid :(
 - catch up with Jean
 - working on a user story, believe it or not, for a non-work project I'm on
+
+## 12 May (Thurs)
+
+- Essentially took this day off completely, I woke up feeling a bit off 
