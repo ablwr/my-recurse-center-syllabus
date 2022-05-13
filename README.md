@@ -1073,7 +1073,7 @@ Read (future tense and then past tense):
 ### Waking up
 - Reading about [Tama's successors](https://en.wikipedia.org/wiki/Tama_(cat))
 - doing some comms. I don't know if it's a result of the pandemic or just growing older-wiser or years of consulting work, but I need to acknowledge and write down that doing things like email and other communication work, community work, setting-things-up work is more time-consuming than I think it's gonna be and it's worth noting that it's WORRRRRRRRRRK. Anyway, doing some of that in the form of asking for favors today.
-- Enjoying a lot of slow mornings, drinking a decaf americano with too much half-n-half on my back patio, a whiplash-strong contrast to my usually NGW sprints
+- Enjoying a lot of slow mornings, drinking a decaf americano with too much half-n-half on my back patio, a whiplash-strong contrast to my usually NGW sprint mentality
 - [Cartrivision](https://en.wikipedia.org/wiki/Cartrivision)
 - [V-Cord](https://obsoletemedia.org/v-cord/)
 
@@ -1086,4 +1086,21 @@ Read (future tense and then past tense):
 
 ## 12 May (Thurs)
 
-- Essentially took this day off completely, I woke up feeling a bit off 
+- Essentially took this day off completely, I woke up feeling a bit off. I think I still need rest, so today I rested.
+- "onboarded" onto Rory's [audio-player project](https://gitlab.com/soryrawyer/audio-player/)
+- did a lot of listening to podcasts, lounging around, and cleaning up video illustrations
+
+## 13 May (Fri)
+
+### Waking up
+- Doing a good bit of writing for things I'll post in the future (just to space some things out, or that need another thing or two to fall in place before I can feel they're ready)
+
+### Afternoon
+- Presentations!
+  - [Sliderland](https://sliderland.blinry.org/)
+  - [Bridge.watch](https://bridge.watch/?plot_type=percent_poor)
+  - [Thinking in Systems](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557)
+
+What a different NGW than the previous years! I think I have really been accepting that I need some time to think and relax, and so I took the week as an opportunity to do that. I was very productive, but in a way that isn't "ship a bunch of new projects ASAP!" More like a restorative and slowly-building-towards-the-future kind of way.
+
+Anyway, until next year! <code><3</code>
