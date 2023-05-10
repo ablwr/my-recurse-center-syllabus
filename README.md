@@ -1104,3 +1104,52 @@ Read (future tense and then past tense):
 What a different NGW than the previous years! I think I have really been accepting that I need some time to think and relax, and so I took the week as an opportunity to do that. I was very productive, but in a way that isn't "ship a bunch of new projects ASAP!" More like a restorative and slowly-building-towards-the-future kind of way.
 
 Anyway, until next year! <code><3</code>
+
+~ ~ ~ 
+
+# NGW'23 !!!
+
+Oh, I didn't do any planning for this year! But I'm here, hi! I'm excited to return to NYC and an in-person NGW, so I'll spend the latter half of the week doing that.
+
+This year, I'll be juggling "work" but work looks different this year than in years past.
+
+## 8 May 2023
+
+Because I sort of forgot this week was happening, I am going to open it with an excuse to catch up on a lot of tabs I have open:
+
+### general stuff 
+
+- Catching up on Tyler Thorsted's [File Formats Fridays series](https://preservation.tylerthorsted.com/category/file-formats/), diving into the Livecode stack and the OMF extension.
+- [Museum of Screens: What was the first Flash Game – Ep 1: The Surface Level](https://museumofscreens.wordpress.com/2023/05/06/what-was-the-first-flash-game-ep-1-the-surface-level/)
+- [Chronolocation: Determining When a Photo was Taken Using Facebook, Google Street View and Assorted Tiny Details](https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/)
+- [X-Files and videotape: The early days of internet piracy](https://www.cnet.com/culture/x-files-and-videotape-internet-piracy-usenet-1990s/)
+- [The Art of Visual Notetaking](https://emilyamills.com/book/)
+- [anjackson's Making websites archivable with JavaScript](https://anjackson.net/2023/03/10/making-websites-archivable-with-javascript/), which I've read but it keeps getting updated!
+
+This week, I'm reading (via audiobook) [The Seven Moons of Maali Almeida](https://thebookerprizes.com/the-booker-library/books/the-seven-moons-of-maali-almeida)
+
+### fiber arts
+
+- I just finished taking a weaving class, and I finished [this cat-sized mat](https://digipres.club/@ashley/110334623946595770)
+- I've been learning tunisian crochet, excited to try different [kinds](https://www.youtube.com/watch?v=PFDPbkVm_Yw) of [color](https://www.youtube.com/watch?v=koenHd5qY_U) work
+- The biggest reason for finishing the rainbow cat mat is so that I don't feel as guilty about starting a new project instead of finishing the ones I have, tbd
+
+## 9 May 2023
+
+- went into overdrive finishing an RC-computer tunisian crochet tapestry
+- went to the annual intersection feminist sci-fi talk and crafty hour
+- ate mac'n'cheese
+- did some worky-work stuff
+
+### readings
+- [RubyConf Mini 2022: Keynote: Learning DNS by Julia Evans](https://www.youtube.com/watch?v=tsxjNsFu_2g)
+- [This long read on Visual Basic](https://retool.com/visual-basic/) that I keep looking at and then not reading because it is long
+
+## 10 May 2023
+- Woke up and got started with my day (grumpily), then I took a nap, and now I'm back again. Sometimes you just need a reboot.
+
+Drafted and posted a brief [blog post about MediaInfo Definitions](https://bits.ashleyblewer.com/blog/2023/05/09/mediainfo-definitions/), a project I did recently.
+
+### readings
+- [Will A.I. Become the New McKinsey?](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey) by Ted Chiang (thanks [rory](https://sawyer.dev))
+- [Nothing survives transcription, nothing doesn’t survive transcription](https://posts.decontextualize.com/nothing-survives-transcription/) by Allison Parrish
