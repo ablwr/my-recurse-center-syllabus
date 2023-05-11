@@ -1152,4 +1152,9 @@ Drafted and posted a brief [blog post about MediaInfo Definitions](https://bits.
 
 ### readings
 - [Will A.I. Become the New McKinsey?](https://www.newyorker.com/science/annals-of-artificial-intelligence/will-ai-become-the-new-mckinsey) by Ted Chiang (thanks [rory](https://sawyer.dev))
-- [Nothing survives transcription, nothing doesn’t survive transcription](https://posts.decontextualize.com/nothing-survives-transcription/) by Allison Parrish
+- [Nothing survives transcription, nothing doesn’t survive transcription](https://posts.decontextualize.com/nothing-survives-transcription/) by Allison Parrish: stunning! I feel like I need to read it again deeply
+
+## 11 May 2023
+- travel
+- presentations in the RC space!
+- nuptials celebration 
