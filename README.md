@@ -1166,4 +1166,4 @@ Drafted and posted a brief [blog post about MediaInfo Definitions](https://bits.
 Unfortunately, I did not take the week off work for this one! I'll be fitting in some new learning when I can, but I'll mostly be settling into my new job as developer for NPR's research, archives, and data strategy team (this is week 6).
 
 - Went to State of RC
-
+- Attend the 8th annual intersectional feminist sci-fi books talk
