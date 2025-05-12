@@ -1167,3 +1167,34 @@ Unfortunately, I did not take the week off work for this one! I'll be fitting in
 
 - Went to State of RC
 - Attend the 8th annual intersectional feminist sci-fi books talk
+
+~ ~ ~ 
+
+# NGW'25 !!!
+
+## 12 May 2025
+
+Dedicating just one-ish day to NGW this week, but I'm in the space today seeing people/places/things before I head back to regularly scheduled programming (aka a job and being surrounded by cats in Philly).
+
+Yesterday, I got to catch the tail end of [Rhizome World](https://rhizome.org/editorial/2025/apr/03/rhizome-world/) and I experienced the full range of human emotions.
+
+I have a couple goals for this super micro mini batch:
+- Research into three video game memory card formats and preservation issues for a paper I'm authoring with [one of my besties](http://travislwagner.com/) for an academic journal. Research takes a lot of time!
+- winding down [Throttled](https://ashleyblewer.com/throttled.html) (hey, from NGW'20!), as much as I'd like to keep this work up forever'n'ever, I dislike paying rent for its server even more, so I am going to do the things I need to do to make sure it rests respectfully.
+
+Small things:
+- finished an infinity scarf that coincidentally has a programming joke in it because I'm calling it my off-by-one scarf, because it makes a spiral pattern from me having each row be increasingly off by one stitch. I used [Noro Haunui Cotton](https://noroyarns.com/yarn/K-HAUNCOT) I got in Santa Fe in a [maybe-discontinued? color, "glenavy"](https://www.crazyforewe.com/cdn/shop/files/IMG_0393.jpg)
+- checking out [trending flags of the world](https://allworldflags.com/)
+- the space has a copy of [computer lib / dream machines](https://archive.org/details/computer-lib-dream-machines)
+- when in nyc, read Screen Slate: [Entering Interregnum: A Conversation with Jia Zhangke on Caught by the Tides](https://www.screenslate.com/articles/entering-interregnum-conversation-jia-zhangke-caught-tides)
+- ["Three things we learned about Sam Altman by scoping his kitchen"](https://www.ft.com/content/b1804820-c74b-4d37-b112-1df882629541) they are absolutely roasting him
+- [Void Corporation](https://www.simonandschuster.com/books/Void-Corporation/Blake-Butler/9781648230783) by Blake Butler (fka Alice Knott? the book, I mean?) anyway I was hooked from the opening bit about an organization that destroys art
+
+
+Small things tied to the research paper:
+- these might be relevant to the work but they might just be fun things I found along the way
+- [Media Fields Journal](https://mediafieldsjournal.org/)
+- [Cooperative Mode for Amateur and Academic Game Histories, Kevin Driscoll](https://romchip.org/index.php/romchip-journal/article/view/71)
+- [Library of Congress - HyperCard Stack File Format](https://www.loc.gov/preservation/digital/formats/fdd/fdd000537.shtml)
+
+
