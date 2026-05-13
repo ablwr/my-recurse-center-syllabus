@@ -1198,3 +1198,13 @@ Small things tied to the research paper:
 - [Library of Congress - HyperCard Stack File Format](https://www.loc.gov/preservation/digital/formats/fdd/fdd000537.shtml)
 
 
+# NGW'26!
+
+I am in a cocoon. It's a step up from being in a shroud, which I was in up until recently. So I am still, like, a pile of goo within a shell encasing. Does this sound ominous or what? I don't mean it like that. I am working on some things but they aren't ready for me to talk about yet. I don't mean for that to sound ominous either. Anyway, my goal for this week is to not work on any of that and give myself a break from thinking too much and in too many (upward, downward, static) spirals. 
+
+A few things I am thinking about:
+- taking things offline
+- becoming a better teacher
+- easily matching web layouts with print layouts (essentially: covert webpages to zine layouts without an annoying amount of work)
+- organized chaos, lots of taking out everything and evaluating it and putting it back tidier than before
+- physical manifestation of meditation playlist so I can just press a button or scan a card
